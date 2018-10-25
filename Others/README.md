@@ -10,3 +10,10 @@
 | 2018/10/20 | 인스타그램 라이브        | InstagramLive20181020.txt |  |
 | 2018/10/25 | 인스타그램 라이브        | InstagramLive20181025.txt |  |
 | 2018/10/22 | 오늘밤은 돌아가지 않아   | Konya20181022.txt         | https://youtu.be/g5sN_1WCIXw |
+
+# 기타 자막
+
+| 날짜       | 제목                     | 파일                      | 기타 |
+| ---------- | ------------------------ | ------------------------- | ---- |
+| 2018/10/20 | KKB꿈응원페스타          | KKB20181020-1.smi<br>KKB20181020-2.smi<br>KKB20181020-3.smi<br>KKB20181020-4.smi<br> | 출처: ㅍㅋㅇㅍㅊ (http://gall.dcinside.com/m/shitaomiu/67430)<br> https://youtu.be/aWT2VINKcRM<br> https://youtu.be/K2norj0yar8<br> https://youtu.be/aOPkoBhOqh0<br> https://youtu.be/lAwaHtCDn50<br> |
+
