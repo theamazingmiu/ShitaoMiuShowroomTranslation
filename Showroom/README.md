@@ -28,7 +28,7 @@
   - 2017-01-09
   - 2017-01-12 ![][wip]
   - 2017-01-14
-  - 2017-02-03
+  - 2017-02-03 ![][wip-extern] http://gall.dcinside.com/m/shitaomiu/69131
   - 2017-02-09
   - 2017-02-12
   - 2017-02-14
@@ -209,4 +209,5 @@
 [tran]: https://img.shields.io/badge/-%EB%B2%88%EC%97%AD-green.svg
 [sub]: https://img.shields.io/badge/-%EC%9E%90%EB%A7%89-blue.svg
 [wip]: https://img.shields.io/badge/-%EC%9E%91%EC%97%85%EC%A4%91-yellow.svg
+[wip-extern]: https://img.shields.io/badge/-%EC%99%B8%EB%B6%80%EC%9E%91%EC%97%85%EC%A4%91-yellow.svg
 
