@@ -23,4 +23,4 @@
 | ---------- | --------------------------------- | ---------------------------- | ---- |
 | 2018/10/19 | Team A 극공 MC (먀오,미우,아야난) | https://youtu.be/BVIOIBLZPxA |      |
 | 2018/10/15 | 인스타그램 라이브                 | https://youtu.be/Ojpp2F84n2Y |      |
-| 2018/10/25 | 인스타그램 라이브                 | https://youtu.be/f09x-bL0uYw |      |
+| 2018/10/25 | 인스타그램 라이브                 | https://youtu.be/f09x-bL0uYw<br>https://youtu.be/Pfuf9BmEA4k |      |
