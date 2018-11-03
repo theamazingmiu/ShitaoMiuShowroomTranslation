@@ -1,0 +1,818 @@
+﻿<SAMI>
+<HEAD>
+<TITLE>180924_Yumehanahaku</TITLE>
+<SAMIParam>
+  Metrics {time:ms;}
+  Spec {MSFT:1.0;}
+</SAMIParam>
+<STYLE TYPE="text/css">
+<!--
+P { margin-left:8pt; margin-right:8pt; margin-bottom:2pt;
+    margin-top:2pt; font-size:14pt; text-align:center;
+    font-family:굴림, Arial; font-weight:normal; color:white;
+    background-color:black; }
+.KRCC { Name:한국어; lang:ko-KR; SAMIType:CC; }
+#STDPrn { Name:Standard Print; }
+#LargePrn { Name:Large Print; font-size:20pt; }
+#SmallPrn { Name:Small Print; font-size:10pt; }
+-->
+</STYLE>
+</HEAD>
+<BODY>
+<-- Open play menu, choose Captions and Subtiles, On if available -->
+<-- Open tools menu, Security, Show local captions when present -->
+<SYNC Start=0><P Class=KRCC>자막 제작: 디시인사이드 시타오미우 마이너갤러리<br>http://gall.dcinside.com/m/shitaomiu/61312
+<SYNC Start=100><P Class=KRCC>&nbsp;
+<SYNC Start=58901><P Class=KRCC>蜂の巢ダンス<br>하치노스단스<br>(벌집댄스)
+<SYNC Start=71000><P Class=KRCC>&nbsp;
+<SYNC Start=72601><P Class=KRCC>塊になってくっついて行こう!<br>카타마리니낫테쿳츠이테이코오!<br>한무리가 되어 바짝 붙어서 가자!
+<SYNC Start=75529><P Class=KRCC>ぶつかり合ってみんなして踊れ!<br>부츠카리앗테민나시테오도레!<br>서로 부딪치며 모두 함께 춤춰!
+<SYNC Start=79149><P Class=KRCC>思いはひとつ 願うことは同じだ<br>오모이와히토츠 네가우코토와오나지다<br>마음은 하나 바라는 것은 같아
+<SYNC Start=83509><P Class=KRCC>觸れ合って感じればいい<br>후레앗테칸지레바이이<br>서로 맞닿으며 느끼면 돼
+<SYNC Start=87101><P Class=KRCC>僕たちの蜂の巢ダンス<br>보쿠타치노하치노스단스<br>우리들의 벌집 댄스
+<SYNC Start=90701><P Class=KRCC>&nbsp;
+<SYNC Start=92285><P Class=KRCC>難しいことなんかこの際 考えるな<br>무즈카시이코토난카코노사이캉가에루나<br>어려운 일 따위는 지금 생각하지 마
+<SYNC Start=96185><P Class=KRCC>もっと樂にテキト―にやるっきゃない<br>못토라쿠니테키토-니야룻캬나이<br>좀 더 편하고 적당히 할 수밖에 없어
+<SYNC Start=99314><P Class=KRCC>ふざけて (抱きついて) 笑って (チュ―して)<br>후자케테 (다키츠이테) 와랏테 (츄-시테)<br>장난치며 (서로 끌어안고) 웃으며 (입을 맞추며)
+<SYNC Start=103001><P Class=KRCC>何でもアリなんだ ハッピ―タイム<br>난데모아리난다 핫피-타이무<br>무엇이든지 가능해 해피 타임
+<SYNC Start=106811><P Class=KRCC>どうせここにいるのは氣の合う連中ばかりだ<br>도오세코코니이루노와키노아우렌츄-바카리다<br>어차피 여기 있는 건 마음 맞는 동료들 뿐이야
+<SYNC Start=110114><P Class=KRCC>バカでお人好しで落ちこぼれたち<br>바카데오히토요시데오치코보레타치<br>바보같고 어리숙한 낙오작들
+<SYNC Start=113204><P Class=KRCC>腕組んで (はしゃいで) 大聲で (叫んで)<br>우데쿤데 (하샤이데) 오오고에데 (사켄데)<br>팔장 끼며 (까불고) 큰 목소리로 (소리 지르며)
+<SYNC Start=116858><P Class=KRCC>友情を確かめよう<br>유우죠오오타시카메요오<br>우정을 확인하자
+<SYNC Start=119450><P Class=KRCC>&nbsp;
+<SYNC Start=119898><P Class=KRCC>いいことも (Yeah Yeah) 惡いことも (Wow Wow)<br>이이코토모 (Yeah Yeah) 와루이코토모 (Wow Wow)<br>좋은 일도 (Yeah Yeah)나쁜 일도 (Wow Wow)
+<SYNC Start=123101><P Class=KRCC>いつだって (一緖に分かち合おう)<br>이츠닷테 (잇쇼니와카치아오오)<br>언제나 (함께 나누자)
+<SYNC Start=126398><P Class=KRCC>しあわせも (Yeah Yeah) ふしあわせも (Wow Wow)<br>시아와세모 (Yeah Yeah) 후시아와세모 (Wow Wow)<br>행복도 (Yeah Yeah) 불행도 (Wow Wow)
+<SYNC Start=130138><P Class=KRCC>どうにかこうにか乘り越えて…<br>도오니카코오니카노리코에테…<br>어떻게든 뛰어 넘어서…
+<SYNC Start=133479><P Class=KRCC>塊になって重なって騷げ!<br>카타마리니낫테카사낫테사와게!<br>한무리가 되어 겹치며 뛰놀아!
+<SYNC Start=136698><P Class=KRCC>バラバラでもOk めちゃくちゃに踊れ!<br>바라바라데모Ok 메챠쿠챠니오도레!<br>제각각이어도 Ok 엉망진창으로 춤춰!
+<SYNC Start=140451><P Class=KRCC>蜂が飛ぶように入り亂れるように<br>하치가토부요오니이리미다레루요오니<br>벌이 나는 것처럼 뒤범벅이 되도록
+<SYNC Start=144555><P Class=KRCC>見てくれは關係ない<br>미테쿠레와칸케이나이<br>겉모습은 상관없어
+<SYNC Start=147598><P Class=KRCC>塊になってくっついて行こう!<br>카타마리니낫테쿳츠이테이코오!<br>한무리가 되어 바짝 붙어서 가보자!
+<SYNC Start=150714><P Class=KRCC>ぶつかり合ってみんなして踊れ!<br>부츠카리앗테민나시테오도레!<br>서로 부딪치며 모두 함께 춤춰!
+<SYNC Start=154485><P Class=KRCC>思いはひとつ 願うことは同じだ<br>오모이와히토츠 네가우코토와오나지다<br>마음은 하나 바라는 것은 같아
+<SYNC Start=158759><P Class=KRCC>觸れ合って感じ合おうぜ<br>후레앗테칸지아오오제<br>서로 맞닿으며 느끼면 돼
+<SYNC Start=162510><P Class=KRCC>僕たちの蜂の巢ダンス<br>보쿠타치노하치노스단스<br>우리들의 벌집 댄스
+<SYNC Start=166029><P Class=KRCC>&nbsp;
+<SYNC Start=170398><P Class=KRCC>塊になって重なって騷げ!<br>카타마리니낫테카사낫테사와게!<br>한무리가 되어 겹치며 뛰놀아!
+<SYNC Start=173604><P Class=KRCC>バラバラでもOk めちゃくちゃに踊れ!<br>바라바라데모Ok 메챠쿠챠니오도레!<br>제각각이어도 Ok 엉망진창으로 춤춰!
+<SYNC Start=177279><P Class=KRCC>蜂が飛ぶように入り亂れるように<br>하치가토부요오니이리미다레루요오니<br>벌이 나는 것처럼 뒤범벅이 되도록
+<SYNC Start=181585><P Class=KRCC>見てくれは關係ない<br>미테쿠레와칸케이나이<br>겉모습은 상관없어
+<SYNC Start=184438><P Class=KRCC>塊になってくっついて行こう!<br>카타마리니낫테쿳츠이테이코오!<br>한무리가 되어 바짝 붙어서 가보자!
+<SYNC Start=187573><P Class=KRCC>ぶつかり合ってみんなして踊れ!<br>부츠카리앗테민나시테오도레!<br>서로 부딪치며 모두 함께 춤춰!
+<SYNC Start=191101><P Class=KRCC>思いはひとつ 願うことは同じだ<br>오모이와히토츠 네가우코토와오나지다<br>마음은 하나 바라는 것은 같아
+<SYNC Start=195529><P Class=KRCC>觸れ合って感じ合おうぜ<br>후레앗테칸지아오오제<br>서로 맞닿으며 느끼면 돼
+<SYNC Start=199285><P Class=KRCC>僕たちの蜂の巢ダンス<br>보쿠타치노하치노스단스<br>우리들의 벌집 댄스
+<SYNC Start=202738><P Class=KRCC>&nbsp;
+<SYNC Start=204601><P Class=KRCC>Shake It! Shake It! Shake It Off!<br>흔들어! 흔들어! 흔들어봐!
+<SYNC Start=206285><P Class=KRCC>樂しくやろうぜ!<br>타노시쿠야로오제!<br>즐겁게 해보자!
+<SYNC Start=207935><P Class=KRCC>人生なんて行き當たりばかりで<br>진세이난테이키아타리바카리데<br>인생은 흘러가는 대로
+<SYNC Start=211538><P Class=KRCC>何があろうと どうにかなるものさ<br>나니카아로오토 도오니카나루모노사<br>무슨 일이 있더라도 어떻게든 되는 법이야
+<SYNC Start=215014><P Class=KRCC>ここに! ここに! ここに! 集合!<br>코코니! 코코니! 코코니! 슈우고오!<br>여기로! 여기로! 여기로! 집합!
+<SYNC Start=219638><P Class=KRCC>&nbsp;
+<SYNC Start=225570><P Class=KRCC>思春期のアドレナリン<br>시키노 아도레나린<br>사춘기의 아드레날린
+<SYNC Start=249850><P Class=KRCC>&nbsp;
+<SYNC Start=249985><P Class=KRCC>近頃 私 全然 眠れない<br>치카고로 와타시 젠젠 네무레나이<br>요즘 나는 잠을 전혀 못자
+<SYNC Start=252791><P Class=KRCC>WOW WOW エネルギ―余ってる<br>워 오오~ 에네루기- 아맛테루<br>워 오오~ 에너지 넘쳐나
+<SYNC Start=255758><P Class=KRCC>勉强 スポ―ツ 部活だけじゃ疲れない<br>벵쿄-스포-츠 부카츠다케쟈 츠카레나이<br>공부 , 스포츠 부활동으로는 지치지않아
+<SYNC Start=258585><P Class=KRCC>WOW WOW パワ―全開<br>워 오오~ 파와- 젠카이<br>워 오오~ 파워 전개
+<SYNC Start=261579><P Class=KRCC>戀でもしてれば<br>코이데모시테레바<br>사랑이라도 하면
+<SYNC Start=265050><P Class=KRCC>ハ―トが燃えていいかもね<br>하-토가 모에테 이이카모네<br>하트가 불타서 좋을지도
+<SYNC Start=267604><P Class=KRCC>ところがまわりには<br>도코로가 마와리니와<br>그런데 주변에는
+<SYNC Start=270094><P Class=KRCC>ときめくこともないし<br>토키메쿠 코토모 나이시<br>설레는 일도 없고
+<SYNC Start=273375><P Class=KRCC>月に向かって吠えるだけ Hoo!<br>츠키니 무캇테 호에루다케 Hoo!<br>달을 향해 고함지를뿐 Hoo!
+<SYNC Start=279001><P Class=KRCC>思春期のアドレナリン<br>시키노 아도레나린<br>사춘기의 아드레날린
+<SYNC Start=281979><P Class=KRCC>少女はいつだって最强(最强)<br>쇼-죠와 이츠닷테 사이쿄-(사이쿄-)<br>소녀는 언제라도 최강 (최강)
+<SYNC Start=285340><P Class=KRCC>不可能なことはない(ない !)<br>후카노-나 코토와 나이(나이 !)<br>불가능 한 것은 없어 (없어 !)
+<SYNC Start=288898><P Class=KRCC>ワンツ―スリ―でダン<br>완 츠-스리-데 단 ( 단 ! 단 ! 단 ! )<br>원 투 쓰리 아웃
+<SYNC Start=291385><P Class=KRCC>驅け巡るアドレナリン<br>카케메구루 아도레나린<br>뛰어다니는 아드레날린
+<SYNC Start=293904><P Class=KRCC>今なら空だって飛べる(飛べる)<br>이마나라 소라닷테 토베루(토베루)<br>지금이라면 하늘도 날아올라(날아올라)
+<SYNC Start=297029><P Class=KRCC>今何をするべきか(さあ)<br>이마 나니오 스루베키카(사아 ! )<br>지금 무엇을 해야하는가(자 ! )
+<SYNC Start=299893><P Class=KRCC>ワンツ―スリ―でチャンス<br>완 츠-스리-데 챤스 (챤스 ! 챤스 ! 챤스 !)<br>원 투 쓰리 찬스
+<SYNC Start=302904><P Class=KRCC>歌って踊れ<br>우탓테 오도레<br>노래하고 춤 춰
+<SYNC Start=304404><P Class=KRCC>Oh ! Oh ! Oh ! Oh ! Oh ! (Yes I do !)
+<SYNC Start=307251><P Class=KRCC>Oh ! Oh ! Oh ! Oh ! Oh ! (What’s the Mission？)
+<SYNC Start=310202><P Class=KRCC>Oh ! Oh ! Oh ! Oh ! Oh !
+<SYNC Start=313229><P Class=KRCC>急げ 力を試すんだ<br>이소게 치카라오 타메슨다<br>서둘러 힘을 시험하자
+<SYNC Start=315614><P Class=KRCC>急げ 切れるぞ 賞味期限<br>이소게 키레루조 쇼-미키겐<br>서둘러 자르자 유통기한
+<SYNC Start=318555><P Class=KRCC>何かやらなきゃもったいない<br>나니카 야라나캬못타이나이<br>뭔가 하지않으면 아까워
+<SYNC Start=321338><P Class=KRCC>正義のために行け<br>세이기노 타메니 유케<br>정의를 위해서 가자
+<SYNC Start=324485><P Class=KRCC>今だ 進め未成年<br>이마다 스스메 미세이넨<br>지금이다 나아가자 미성년
+<SYNC Start=327380><P Class=KRCC>&nbsp;
+<SYNC Start=337798><P Class=KRCC>月に向かって<br>츠키니 무캇테<br>달을 향해
+<SYNC Start=340780><P Class=KRCC>向かって<br>무캇테<br>향해
+<SYNC Start=342202><P Class=KRCC>叫ぶだけ Hoo!<br>사케부다케 Hoo!<br>외칠뿐 Hoo!
+<SYNC Start=345011><P Class=KRCC>思春期のアドレナリン<br>시키노 아도레나린<br>사춘기의 아드레날린
+<SYNC Start=348007><P Class=KRCC>少女はいつだって最强(最强)<br>쇼-죠와 이츠닷테 사이쿄-(사이쿄-)<br>소녀는 언제라도 최강 (최강)
+<SYNC Start=351191><P Class=KRCC>不可能なことはない(ない)<br>후카노-나 코토와 나이 (나이 ! )<br>불가능 한 것은 없어 (없어 ! )
+<SYNC Start=354085><P Class=KRCC>ワンツ―スリ―でダン<br>완 츠-스리-데 단 ( 단 ! 단 ! 단 ! )<br>원 투 쓰리 아웃
+<SYNC Start=356738><P Class=KRCC>歌って踊れ<br>우탓테 오도레<br>노래하고 춤 춰
+<SYNC Start=358307><P Class=KRCC>Oh ! Oh ! Oh ! Oh ! Oh ! (Yes I do !)
+<SYNC Start=361198><P Class=KRCC>Oh ! Oh ! Oh ! Oh ! Oh ! (What’s the Mission？)
+<SYNC Start=364198><P Class=KRCC>Oh ! Oh ! Oh ! Oh ! Oh !
+<SYNC Start=367285><P Class=KRCC>急げ 力を試すんだ<br>이소게 치카라오 타메슨다<br>서둘러 힘을 시험하자
+<SYNC Start=369640><P Class=KRCC>急げ 切れるぞ 賞味期限<br>이소게 키레루조 쇼-미키겐<br>서둘러 자르자 유통기한
+<SYNC Start=372598><P Class=KRCC>何かやらなきゃもったいない<br>나니카 야라나캬못타이나이<br>뭔가 하지않으면 아까워
+<SYNC Start=376120><P Class=KRCC>正義のために行け<br>세이기노 타메니 유케<br>정의를 위해서 가자
+<SYNC Start=378698><P Class=KRCC>今だ 進め未成年<br>이마다 스스메 미세이넨<br>지금이다 나아가자 미성년
+<SYNC Start=381329><P Class=KRCC>&nbsp;
+<SYNC Start=382500><P Class=KRCC>制服の羽根<br>세에후쿠노 하네<br>제복의 날개
+<SYNC Start=400125><P Class=KRCC>&nbsp;
+<SYNC Start=400202><P Class=KRCC>始業チャイムが(始業チャイムが)<br>시교-챠이무가(시교-챠이무가)<br>수업 벨소리가(수업 벨소리가)
+<SYNC Start=403340><P Class=KRCC>響く直前(響く直前）<br>히비쿠쵸쿠젠(히비쿠쵸쿠젠)<br>울리기 전에(울리기 전에)
+<SYNC Start=407001><P Class=KRCC>校庭走る君を<br>코-테이하시루키미오<br>교실로 달려오는 너를
+<SYNC Start=408404><P Class=KRCC>窓から見てた<br>마도카라미테타<br>창문가에서 보았어
+<SYNC Start=412701><P Class=KRCC>スカ―トの○(スカ―トの○）<br>스카-토노스소(스카-토노스소)<br>스카트 옷자락이(스카트 옷자락이)
+<SYNC Start=415885><P Class=KRCC>風にひるがえす姿に<br>카제니히루가에스스가타니<br>바람에 휘날리는 모습에서
+<SYNC Start=420139><P Class=KRCC>キュンとしてた<br>?토시테타<br>가슴이 설레왔어
+<SYNC Start=423120><P Class=KRCC>&nbsp;
+<SYNC Start=425025><P Class=KRCC>クラスの中で目立たない<br>쿠라스노나카데메다타나이<br>반 안에서 눈에 띄지 않는
+<SYNC Start=428185><P Class=KRCC>おとなしい君だけど<br>오토나시이키미다케도<br>얌전한 너인데도
+<SYNC Start=431340><P Class=KRCC>僕だけは知ってる<br>보쿠다케와싯테루<br>나만이 알고 있는
+<SYNC Start=434510><P Class=KRCC>誰よりも（誰よりも）<br>다레요리모 (다레요리모)<br>누구보다도 (누구보다도)
+<SYNC Start=437414><P Class=KRCC>可愛いってこと<br>카와잇테코토<br>귀여운 아이라는 걸
+<SYNC Start=440198><P Class=KRCC>制服の羽根廣げ<br>세이후쿠노하네히로게<br>교복의 날개를 펼쳐서
+<SYNC Start=444125><P Class=KRCC>風に乘り飛んで來い<br>카제니노리톤데코이<br>바람을 타고 날아 와
+<SYNC Start=447198><P Class=KRCC>この手 伸ばして<br>코노테 노바시테<br>이 손을 뻗어서
+<SYNC Start=450200><P Class=KRCC>僕が受け止めてあげる<br>보쿠가우케토메테아게루<br>내가 받아 줄께
+<SYNC Start=453250><P Class=KRCC>遲刻なんかはさせない<br>치코쿠난카하사세나이<br>지각 따윈 하게 하지 않아
+<SYNC Start=456478><P Class=KRCC>ちゃんと授業に間に合う<br>챤토쥬교니마니아우<br>제대로 수업에 늦지 않도록
+<SYNC Start=459614><P Class=KRCC>君のためだったら<br>키미노타메닷타라<br>너를 위해서라면
+<SYNC Start=463010><P Class=KRCC>力貸すよ<br>치카라카스요<br>힘을 빌려줄께
+<SYNC Start=466023><P Class=KRCC>願えば○うもの Fly !<br>네가에바카나우모노 Fly !<br>원하면 이루어지는 것 Fly !
+<SYNC Start=474660><P Class=KRCC>&nbsp;
+<SYNC Start=491110><P Class=KRCC>制服の羽根廣げ<br>세이후쿠노하네히로게<br>교복의 날개를 펼쳐서
+<SYNC Start=494260><P Class=KRCC>風に乘り飛んで來い<br>카제니노리톤데코이<br>바람을 타고 날아와
+<SYNC Start=497520><P Class=KRCC>この手 伸ばして<br>코노테 노바시테<br>이 손을 뻗어서
+<SYNC Start=500393><P Class=KRCC>僕が受け止めてあげる<br>보쿠가우케토메테아게루<br>내가 받아 줄께
+<SYNC Start=503510><P Class=KRCC>遲刻なんかはさせない<br>치코쿠난카하사세나이<br>지각 따윈 하게 하지 않아
+<SYNC Start=506740><P Class=KRCC>ちゃんと授業に間に合う<br>챤토쥬교니마니아우<br>제대로 수업에 늦지 않도록
+<SYNC Start=509893><P Class=KRCC>君のためだったら<br>키미노타메닷타라<br>너를 위해서라면
+<SYNC Start=513129><P Class=KRCC>力貸すよ<br>치카라카스요<br>힘을 빌려 줄께
+<SYNC Start=516220><P Class=KRCC>願えば○うもの<br>네가에바카나우모노<br>원하면 이루어지는 것
+<SYNC Start=522505><P Class=KRCC>Fly !
+<SYNC Start=525600><P Class=KRCC>&nbsp;
+<SYNC Start=550929><P Class=KRCC>시타오 미우:네, 야마구치 유메하나하쿠<br>(AKB48 Team8 야마구치현 대표)
+<SYNC Start=553230><P Class=KRCC>시타오 미우:유메하나 스페셜 스테이지에 오신 여러분<br>(AKB48 Team8 야마구치현 대표)
+<SYNC Start=556000><P Class=KRCC>시타오 미우:정말 오늘 감사드립니다<br>(AKB48 Team8 야마구치현 대표)
+<SYNC Start=558200><P Class=KRCC>시타오 미우:그리고 안녕하세요!!!<br>(AKB48 Team8 야마구치현 대표)
+<SYNC Start=560029><P Class=KRCC>(전원):AKB48 팀8 입니다.
+<SYNC Start=564198><P Class=KRCC>&nbsp;
+<SYNC Start=569850><P Class=KRCC>시타오 미우:네. 시작했네요.<br>(AKB48 Team8 야마구치현 대표)
+<SYNC Start=572185><P Class=KRCC>시타오 미우:팀8 스테이지 입니다<br>(AKB48 Team8 야마구치현 대표)
+<SYNC Start=573720><P Class=KRCC>미우:오늘은 여기 12명의 멤버로 여러분을 만나러 왔습니다~<br>(AKB48 Team8 야마구치현 대표)
+<SYNC Start=579200><P Class=KRCC>야마다 나나미: 예이! 야마구치~<br>(AKB48 Team8 효고현 대표)
+<SYNC Start=581614><P Class=KRCC>나카노 이쿠미: 이 야마구치 유메하나하쿠는<br>(AKB48 Team8 돗토리현 대표)
+<SYNC Start=584501><P Class=KRCC>나카노 이쿠미:엄청 넓은 토지에, 여러 존이 있는데요<br>(AKB48 Team8 돗토리현 대표)
+<SYNC Start=587679><P Class=KRCC>나카노 이쿠미: 릿센이랑 카렌짱은 여기 유메하나하쿠에서<br>(AKB48 Team8 돗토리현 대표)
+<SYNC Start=591550><P Class=KRCC>나카노 이쿠미:가고 싶거나 관심이 가는 존 있나요?<br>(AKB48 Team8 돗토리현 대표)
+<SYNC Start=594654><P Class=KRCC>요시다 카렌:저는, 대나무 코스터?<br>(AKB48 Team8 후쿠오카현 대표)
+<SYNC Start=597920><P Class=KRCC>요시다 카렌:네, 죽순으로... 아, 죽순이 아니라;;<br>(AKB48 Team8 후쿠오카현 대표)
+<SYNC Start=601350><P Class=KRCC>요시다 카렌:대나무로 만든 제트코스터가 있다고 하던데<br>(AKB48 Team8 후쿠오카현 대표)
+<SYNC Start=604760><P Class=KRCC>요시다 카렌:그거 타고 싶은데요<br>(AKB48 Team8 후쿠오카현 대표)
+<SYNC Start=607814><P Class=KRCC>타 보신 분 안 계신가요?
+<SYNC Start=611300><P Class=KRCC>아 계시네요. 대단하네요.
+<SYNC Start=616714><P Class=KRCC>나카노 이쿠미:어때요, 릿센은?<br>(AKB48 Team8 돗토리현 대표)
+<SYNC Start=618550><P Class=KRCC>릿센 아이리:일본에서 제일 긴 그네가 있는 것 같던데<br>(AKB48 Team8 고치현 대표)
+<SYNC Start=622674><P Class=KRCC>릿센 아이리:저도 정말 소년.... 소녀일 적에<br>(AKB48 Team8 고치현 대표)
+<SYNC Start=625150><P Class=KRCC>나카노 이쿠미:소년??!<br>(AKB48 Team8 돗토리현 대표)
+<SYNC Start=626038><P Class=KRCC>시타오 미우:지금은?<br>(AKB48 Team8 야마구치현 대표)
+<SYNC Start=627320><P Class=KRCC>릿센 아이리:소녀였을 때 그네 좋아해서 한 번 타 보고 싶어요<br>(AKB48 Team8 고치현 대표)
+<SYNC Start=631450><P Class=KRCC>&nbsp;
+<SYNC Start=635480><P Class=KRCC>하루모토 유키: 네 여기서 자기소개 하겠는데요<br>(AKB48 Team8 도쿠시마현 대표)
+<SYNC Start=638760><P Class=KRCC>하루모토 유키:계절이 가을이라 쌀쌀해졌는데요<br>(AKB48 Team8 도쿠시마현 대표)
+<SYNC Start=643430><P Class=KRCC>하루모토 유키:오늘은... 덥네요, 지금은<br>(AKB48 Team8 도쿠시마현 대표)
+<SYNC Start=648850><P Class=KRCC>하루모토 유키:오늘은 주제랑 같이 자기소개 하겠는데요<br>(AKB48 Team8 도쿠시마현 대표)
+<SYNC Start=652850><P Class=KRCC>하루모토 유키:주제는 '가을에 하고 싶은 것에<br>(AKB48 Team8 도쿠시마현 대표)
+<SYNC Start=655485><P Class=KRCC>하루모토 유키:누군가를 꼬시기 위해 폼 잡으며 말하기' 입니다<br>(AKB48 Team8 도쿠시마현 대표)
+<SYNC Start=660000><P Class=KRCC>&nbsp;
+<SYNC Start=661809><P Class=KRCC>나카노 이쿠미: 왜 그런 주제가 된거야?<br>(AKB48 Team8 돗토리현 대표)
+<SYNC Start=663620><P Class=KRCC>&nbsp;
+<SYNC Start=665711><P Class=KRCC>하루모토 유키:이케멘으로 부탁드립니다. 하츠카부터<br>(AKB48 Team8 도쿠시마현 대표)
+<SYNC Start=669250><P Class=KRCC>&nbsp;
+<SYNC Start=670330><P Class=KRCC>우타다 하츠카:캐치프레이즈 갑니다<br>(AKB48 Team8 아이치현 대표)
+<SYNC Start=671820><P Class=KRCC>우타다 하츠카:1일~10일~나는? 하츠카~ (하츠카=20일)<br>(AKB48 Team8 아이치현 대표)
+<SYNC Start=675220><P Class=KRCC>우타다 하츠카:감사합니다.AKB48 팀8 아이치현 대표인<br>(AKB48 Team8 아이치현 대표)
+<SYNC Start=678785><P Class=KRCC>우타다 하츠카:'핫츠' 우타다 하츠카, 고교1년생 16살 입니다.<br>(AKB48 Team8 아이치현 대표)
+<SYNC Start=681610><P Class=KRCC>우타다 하츠카:잘 부탁드립니다<br>(AKB48 Team8 아이치현 대표)
+<SYNC Start=683300><P Class=KRCC>&nbsp;
+<SYNC Start=686114><P Class=KRCC>우타다 하츠카:나랑 같이 은행 냄새에 물들지 않을래?<br>(AKB48 Team8 아이치현 대표)
+<SYNC Start=689400><P Class=KRCC>&nbsp;
+<SYNC Start=691000><P Class=KRCC>우타다 하츠카:감사합니다 오늘도 잘 부탁드립니다<br>(AKB48 Team8 아이치현 대표)
+<SYNC Start=693185><P Class=KRCC>&nbsp;
+<SYNC Start=697400><P Class=KRCC>릿센 아이리:네, 그럼 먼저 가을 느낌의 얼굴로 가겠습니다.<br>(AKB48 Team8 고치현 대표)
+<SYNC Start=701329><P Class=KRCC>&nbsp;
+<SYNC Start=701894><P Class=KRCC>릿센 아이리:저기, 도서관 카드 잃어버렸는데<br>(AKB48 Team8 고치현 대표)
+<SYNC Start=705594><P Class=KRCC>릿센 아이리:독서의 계절 가을이니까 네 카드 빌려줄래?<br>(AKB48 Team8 고치현 대표)
+<SYNC Start=709585><P Class=KRCC>&nbsp;
+<SYNC Start=709850><P Class=KRCC>릿센 아이리:이상입니다<br>(AKB48 Team8 고치현 대표)
+<SYNC Start=710550><P Class=KRCC>&nbsp;
+<SYNC Start=713838><P Class=KRCC>릿센 아이리:코치현 대표인 릿센 아이리 입니다.<br>(AKB48 Team8 고치현 대표)
+<SYNC Start=715200><P Class=KRCC>릿센 아이리:잘 부탁드립니다<br>(AKB48 Team8 고치현 대표)
+<SYNC Start=716529><P Class=KRCC>&nbsp;
+<SYNC Start=720055><P Class=KRCC>교텐 유리나: 네 카가와현에서 왔습니다.<br>(AKB48 Team8 카가와현 대표)
+<SYNC Start=721904><P Class=KRCC>교텐 유리나:여러분을 깜짝! 네. 교텐 유리나 입니다<br>교텐~(仰天=교텐=놀람,기겁함)<br>(AKB48 Team8 카가와현 대표)
+<SYNC Start=727829><P Class=KRCC>&nbsp;
+<SYNC Start=731201><P Class=KRCC>교텐 유리나:네<br>(AKB48 Team8 카가와현 대표)
+<SYNC Start=731500><P Class=KRCC>&nbsp;
+<SYNC Start=731940><P Class=KRCC>교텐 유리나:유리나가 한 턱 낼테니까<br>(AKB48 Team8 카가와현 대표)
+<SYNC Start=733700><P Class=KRCC>교텐 유리나:복어, 복어요리 같이 먹으러 안갈래? (사투리로)<br>(AKB48 Team8 카가와현 대표)
+<SYNC Start=736000><P Class=KRCC>&nbsp;
+<SYNC Start=737329><P Class=KRCC>교텐 유리나:네, 오늘도 하루 잘 부탁드립니다<br>(AKB48 Team8 카가와현 대표)
+<SYNC Start=742185><P Class=KRCC>&nbsp;
+<SYNC Start=744520><P Class=KRCC>오쿠모토 히나노:네, 제가 '못또못또 (더, 더)' 하면<br>(AKB48 Team8 히로시마현 대표)
+<SYNC Start=746724><P Class=KRCC>오쿠모토 히나노:'오쿠모토' 해주세요.<br>(AKB48 Team8 히로시마현 대표)
+<SYNC Start=748014><P Class=KRCC>오쿠모토 히나노:갈게요~ 못또못또!(더 더) 오쿠모토!<br>(AKB48 Team8 히로시마현 대표)
+<SYNC Start=751825><P Class=KRCC>오쿠모토 히나노:감사합니다.웃는 얼굴과 에너지를 보내드립니다.<br>(AKB48 Team8 히로시마현 대표)
+<SYNC Start=754085><P Class=KRCC>오쿠모토 히나노:히로시마현에서 왔습니다.14살<br>(AKB48 Team8 히로시마현 대표)
+<SYNC Start=755685><P Class=KRCC>오쿠모토 히나노:'논논' 오쿠모토 히나노 입니다.<br>(AKB48 Team8 히로시마현 대표)
+<SYNC Start=757000><P Class=KRCC>오쿠모토 히나노:잘 부탁드립니다<br>(AKB48 Team8 히로시마현 대표)
+<SYNC Start=758300><P Class=KRCC>&nbsp;
+<SYNC Start=760310><P Class=KRCC>오쿠모토 히나노:선배. 꽁치 가을 맞죠?<br>(AKB48 Team8 히로시마현 대표)
+<SYNC Start=761850><P Class=KRCC>야마다 나나미:응? 꽁치 가을이야 가을이야.<br>(AKB48 Team8 효고현 대표)
+<SYNC Start=763738><P Class=KRCC>오쿠모토 히나노:자 가겠습니다.<br>(AKB48 Team8 히로시마현 대표)
+<SYNC Start=766210><P Class=KRCC>오쿠모토 히나노:<br>깨워 줄 테니까아침 5시에 일어나서꽁치 낚시 안 갈래?<br>(AKB48 Team8 히로시마현 대표)
+<SYNC Start=769350><P Class=KRCC>&nbsp;
+<SYNC Start=769440><P Class=KRCC>오~
+<SYNC Start=770779><P Class=KRCC>시타오 미우:좋네요<br>(AKB48 Team8 야마구치현 대표)
+<SYNC Start=771250><P Class=KRCC>&nbsp;
+<SYNC Start=773710><P Class=KRCC>야마다 나나미:좋았습니다<br>(AKB48 Team8 효고현 대표)
+<SYNC Start=774320><P Class=KRCC>오쿠모토 히나노:<br>감사합니다.오늘도 열심히 하겠습니다.잘 부탁드립니다.<br>(AKB48 Team8 히로시마현 대표)
+<SYNC Start=776850><P Class=KRCC>&nbsp;
+<SYNC Start=779270><P Class=KRCC>야마다 나나미:네, 그럼 산산나나밍박자(산산나나=337)<br>(AKB48 Team8 효고현 대표)
+<SYNC Start=781780><P Class=KRCC>야마다 나나미:세-노<br>(AKB48 Team8 효고현 대표)
+<SYNC Start=782785><P Class=KRCC>야마다 나나미:삑삑삑, 삑삑삑, 삑삑삑삑 나나미'<br>(AKB48 Team8 효고현 대표)
+<SYNC Start=787770><P Class=KRCC>야마다 나나미:네. 효고현에서 왔습니다.<br>(AKB48 Team8 효고현 대표)
+<SYNC Start=789240><P Class=KRCC>야마다 나나미:야마다 나나미입니다. 잘 부탁드립니다.<br>(AKB48 Team8 효고현 대표)
+<SYNC Start=791350><P Class=KRCC>&nbsp;
+<SYNC Start=793985><P Class=KRCC>야마다 나나미:나카노 이쿠미, 우리집 안 올래?<br>(AKB48 Team8 효고현 대표)
+<SYNC Start=799083><P Class=KRCC>나카노 이쿠미: 갈게요!<br>(AKB48 Team8 돗토리현 대표)
+<SYNC Start=801290><P Class=KRCC>&nbsp;
+<SYNC Start=803688><P Class=KRCC>야마다 나나미:네 그럼 오늘 자고 가는걸로,<br>(AKB48 Team8 효고현 대표)
+<SYNC Start=805200><P Class=KRCC>야마다 나나미:즐기고 싶습니다. 잘 부탁드립니다.<br>(AKB48 Team8 효고현 대표)
+<SYNC Start=807600><P Class=KRCC>&nbsp;
+<SYNC Start=808839><P Class=KRCC>시타오 미우:완전 진심인데요 이분은? ㅎㅎㅎ<br>(AKB48 Team8 야마구치현 대표)
+<SYNC Start=811829><P Class=KRCC>야마다 나나미: 오늘밤 잘 부탁드립니다<br>(AKB48 Team8 효고현 대표)
+<SYNC Start=813191><P Class=KRCC>&nbsp;
+<SYNC Start=814850><P Class=KRCC>미우:말하기 어렵네~<br>(AKB48 Team8 야마구치현 대표)
+<SYNC Start=816345><P Class=KRCC>미안.
+<SYNC Start=817614><P Class=KRCC>시타오 미우:고향이죠.<br>(AKB48 Team8 야마구치현 대표)
+<SYNC Start=819368><P Class=KRCC>시타오 미우:네! 야마구치현에서 왔습니다.<br>(AKB48 Team8 야마구치현 대표)
+<SYNC Start=820829><P Class=KRCC>시타오 미우:세-노<br>(AKB48 Team8 야마구치현 대표)
+<SYNC Start=821720><P Class=KRCC>미우:아래를 보지않고, 위를 향해 마이페이스로 노력하겠습니다.<br>(AKB48 Team8 야마구치현 대표)
+<SYNC Start=825120><P Class=KRCC>미우:시타오 미우 17살 고2입니다.잘 부탁드립니다<br>(AKB48 Team8 야마구치현 대표)
+<SYNC Start=827850><P Class=KRCC>&nbsp;
+<SYNC Start=830790><P Class=KRCC>시타오 미우: 네. 네. 아~ 감사합니다<br>(AKB48 Team8 야마구치현 대표)
+<SYNC Start=833300><P Class=KRCC>야마다 나나미: 대단하다<br>(AKB48 Team8 효고현 대표)
+<SYNC Start=834410><P Class=KRCC>시타오 미우:사랑해요오~, 좋아요오~ 감사합니다.(쉬~)<br>(AKB48 Team8 야마구치현 대표)
+<SYNC Start=840460><P Class=KRCC>야마다 나나미:아, 쉬~라고 ㅎㅎㅎ 엄청 열광하시네<br>(AKB48 Team8 효고현 대표)
+<SYNC Start=843290><P Class=KRCC>미우:그럼 갈게요. 잠시 나랑... 고구마 캐러 안갈래?<br>(AKB48 Team8 야마구치현 대표)
+<SYNC Start=850160><P Class=KRCC>&nbsp;
+<SYNC Start=852380><P Class=KRCC>야마다 나나미:아까의 열광을 좀...<br>(AKB48 Team8 효고현 대표)
+<SYNC Start=853829><P Class=KRCC>시타오 미우:주세요.<br>(AKB48 Team8 야마구치현 대표)
+<SYNC Start=855885><P Class=KRCC>야마다 나나미:최고!<br>(AKB48 Team8 효고현 대표)
+<SYNC Start=856510><P Class=KRCC>미우:감사합니다. 네.. 다음 부탁해요<br>(AKB48 Team8 야마구치현 대표)
+<SYNC Start=861300><P Class=KRCC>&nbsp;
+<SYNC Start=861400><P Class=KRCC>나카노 이쿠미:네, 돗토리현에서 왔습니다.<br>(AKB48 Team8 돗토리현 대표)
+<SYNC Start=863011><P Class=KRCC>나카노 이쿠미:모두에게 만나러 (이쿠밍!) (이쿠=가다)<br>(AKB48 Team8 돗토리현 대표)
+<SYNC Start=866540><P Class=KRCC>나카노 이쿠미:'이쿠밍' 나카노 이쿠미 입니다.<br>(AKB48 Team8 돗토리현 대표)
+<SYNC Start=869000><P Class=KRCC>&nbsp;
+<SYNC Start=872610><P Class=KRCC>나카노 이쿠미:역시 가을 하면 돗토리지.<br>(AKB48 Team8 돗토리현 대표)
+<SYNC Start=876380><P Class=KRCC>나카노 이쿠미:배도 맛있고, 톳토리 사구도 있고,<br>(AKB48 Team8 돗토리현 대표)
+<SYNC Start=879470><P Class=KRCC>나카노 이쿠미:다이센의 단풍, 같이 보러가자.(돗토리로) 와.<br>(AKB48 Team8 돗토리현 대표)
+<SYNC Start=883200><P Class=KRCC>&nbsp;
+<SYNC Start=885050><P Class=KRCC>나카노 이쿠미:잘 부탁드립니다.<br>(AKB48 Team8 돗토리현 대표)
+<SYNC Start=886600><P Class=KRCC>&nbsp;
+<SYNC Start=889905><P Class=KRCC>히토미코토네:네.모두의 눈동자(히토미)에 코토네도 (비치고 싶~어)<br>(AKB48 Team8 오카야마현 대표)
+<SYNC Start=893885><P Class=KRCC>히토미 코토네:오카야마현 출신 17세 히토미 코토네입니다.<br>(AKB48 Team8 오카야마현 대표)
+<SYNC Start=896585><P Class=KRCC>히토미 코토네:잘 부탁드립니다.<br>(AKB48 Team8 오카야마현 대표)
+<SYNC Start=898164><P Class=KRCC>&nbsp;
+<SYNC Start=902955><P Class=KRCC>나카노 이쿠미: 가자! 가자!<br>(AKB48 Team8 돗토리현 대표)
+<SYNC Start=903811><P Class=KRCC>히토미 코토네:네!<br>(AKB48 Team8 오카야마현 대표)
+<SYNC Start=904685><P Class=KRCC>히토미 코토네:갖고 싶은 옷 많이 있는데,<br>(AKB48 Team8 오카야마현 대표)
+<SYNC Start=906185><P Class=KRCC>히토미 코토네:짐 들어주면 같이 가 줘도 돼~ (귀여워)<br>(AKB48 Team8 오카야마현 대표)
+<SYNC Start=910900><P Class=KRCC>&nbsp;
+<SYNC Start=911685><P Class=KRCC>히토미 코토네:네. 이상입니다. 잘 부탁드립니다.<br>(AKB48 Team8 오카야마현 대표)
+<SYNC Start=914100><P Class=KRCC>&nbsp;
+<SYNC Start=915530><P Class=KRCC>오쿠하라:하늘에서 생명을 받아 14년시마네현 대표 중학교3학년<br>(AKB48 Team8 시마네현 대표)
+<SYNC Start=921280><P Class=KRCC>오쿠하라 히나코:'히나' 오쿠하라 히나코 입니다 잘부탁드립니다<br>(AKB48 Team8 시마네현 대표)
+<SYNC Start=924650><P Class=KRCC>&nbsp;
+<SYNC Start=929150><P Class=KRCC>오쿠하라 히나코:지금 나뭇잎 색이 바뀌었대. 보러 가자.<br>(AKB48 Team8 시마네현 대표)
+<SYNC Start=933380><P Class=KRCC>&nbsp;
+<SYNC Start=939600><P Class=KRCC>하루모토 유키:제가 '봄(하루)인데도'하면'눈(유키)'하고 해 주세요<br>(AKB48 Team8 도쿠시마현 대표)
+<SYNC Start=943000><P Class=KRCC>하루모토 유키:갑니다. 봄인데도 (눈!) 감사합니다.<br>(AKB48 Team8 도쿠시마현 대표)
+<SYNC Start=947904><P Class=KRCC>하루모토 유키:토쿠시마와 저의 매력을<br>(AKB48 Team8 도쿠시마현 대표)
+<SYNC Start=949320><P Class=KRCC>하루모토 유키:여러분이 계신 곳에 전해드리러 갑니다.<br>(AKB48 Team8 도쿠시마현 대표)
+<SYNC Start=951160><P Class=KRCC>하루모토 유키:토쿠시마현 대표 18세 하루모토 유키 입니다.<br>(AKB48 Team8 도쿠시마현 대표)
+<SYNC Start=953180><P Class=KRCC>하루모토 유키:잘 부탁드립니다<br>(AKB48 Team8 도쿠시마현 대표)
+<SYNC Start=954500><P Class=KRCC>&nbsp;
+<SYNC Start=958000><P Class=KRCC>하루모토 유키:가을은 결실의 가을이니까<br>(AKB48 Team8 도쿠시마현 대표)
+<SYNC Start=960750><P Class=KRCC>하루모토 유키:포도 많이 먹고싶...으니까<br>(AKB48 Team8 도쿠시마현 대표)
+<SYNC Start=967070><P Class=KRCC>???:계속되나요?
+<SYNC Start=970530><P Class=KRCC>???:...니까?
+<SYNC Start=971310><P Class=KRCC>하루모토 유키:따러 가자.<br>(AKB48 Team8 도쿠시마현 대표)
+<SYNC Start=973400><P Class=KRCC>&nbsp;
+<SYNC Start=977000><P Class=KRCC>???:따는거 좋아하네요
+<SYNC Start=978720><P Class=KRCC>???:다들 엄청 따네
+<SYNC Start=980200><P Class=KRCC>&nbsp;
+<SYNC Start=982000><P Class=KRCC>카와하라 미사키:네! 제가 '사가'라고 하면,<br>(AKB48 Team8 사가현 대표)
+<SYNC Start=983820><P Class=KRCC>카와하라 미사키:여러분이 이어서 '최고'라고 해 주세요.<br>(AKB48 Team8 사가현 대표)
+<SYNC Start=987520><P Class=KRCC>카와하라 미사키:사가~ (최고-) 감사합니다.<br>(AKB48 Team8 사가현 대표)
+<SYNC Start=991550><P Class=KRCC>카와하라 미사키:요시노가리 유적과 사가규 가 유명한<br>(AKB48 Team8 사가현 대표)
+<SYNC Start=993892><P Class=KRCC>카와하라 미사키:사가현에서 왔습니다.<br>(AKB48 Team8 사가현 대표)
+<SYNC Start=995165><P Class=KRCC>카와하라 미사키:고교1학년 16살 카와하라 미사키 입니다.<br>(AKB48 Team8 사가현 대표)
+<SYNC Start=998320><P Class=KRCC>카와하라 미사키:잘 부탁드립니다!<br>(AKB48 Team8 사가현 대표)
+<SYNC Start=999750><P Class=KRCC>&nbsp;
+<SYNC Start=1006880><P Class=KRCC>카와하라 미사키:카렌. 카렌. 군고구마가게 찾으러 가자<br>(AKB48 Team8 사가현 대표)
+<SYNC Start=1012310><P Class=KRCC>요시다 카렌:갈게요!<br>(AKB48 Team8 후쿠오카현 대표)
+<SYNC Start=1014029><P Class=KRCC>&nbsp;
+<SYNC Start=1017085><P Class=KRCC>???:커플 성립?
+<SYNC Start=1018450><P Class=KRCC>&nbsp;
+<SYNC Start=1022260><P Class=KRCC>요시다 카렌:네, 여러분 부탁드립니다.<br>(AKB48 Team8 후쿠오카현 대표)
+<SYNC Start=1024620><P Class=KRCC>&nbsp;
+<SYNC Start=1025900><P Class=KRCC>요시다 카렌: 넘기고 넘기고~<br>(AKB48 Team8 후쿠오카현 대표)
+<SYNC Start=1027585><P Class=KRCC>&nbsp;
+<SYNC Start=1028740><P Class=KRCC>요시다 카렌: 넘기고 넘기고~<br>(AKB48 Team8 후쿠오카현 대표)
+<SYNC Start=1030600><P Class=KRCC>&nbsp;
+<SYNC Start=1031380><P Class=KRCC>요시다 카렌: 넘기고 넘기고~<br>(AKB48 Team8 후쿠오카현 대표)
+<SYNC Start=1033500><P Class=KRCC>&nbsp;
+<SYNC Start=1034330><P Class=KRCC>요시다 카렌: 넘기고 넘기고~<br>(AKB48 Team8 후쿠오카현 대표)
+<SYNC Start=1036230><P Class=KRCC>&nbsp;
+<SYNC Start=1036770><P Class=KRCC>요시다 카렌:세.노! (카렌다~)<br>(AKB48 Team8 후쿠오카현 대표)
+<SYNC Start=1039400><P Class=KRCC>&nbsp;
+<SYNC Start=1039940><P Class=KRCC>요시다 카렌:네! 후쿠오카현에서 왔습니다.<br>(AKB48 Team8 후쿠오카현 대표)
+<SYNC Start=1041470><P Class=KRCC>요시다 카렌:고교1년생 16살 요시다 카렌 입니다.<br>(AKB48 Team8 후쿠오카현 대표)
+<SYNC Start=1043930><P Class=KRCC>요시다 카렌:잘 부탁드립니다.<br>(AKB48 Team8 후쿠오카현 대표)
+<SYNC Start=1047000><P Class=KRCC>요시다 카렌:감사합니다. 갈게요.<br>(AKB48 Team8 후쿠오카현 대표)
+<SYNC Start=1049580><P Class=KRCC>&nbsp;
+<SYNC Start=1053530><P Class=KRCC>요시다 카렌:어느쪽이 낙엽 많이 줍나 승부다<br>(AKB48 Team8 후쿠오카현 대표)
+<SYNC Start=1056330><P Class=KRCC>&nbsp;
+<SYNC Start=1057940><P Class=KRCC>요시다 카렌:예이! 네 오늘 하루도 잘 부탁드립니다<br>(AKB48 Team8 후쿠오카현 대표)
+<SYNC Start=1061230><P Class=KRCC>&nbsp;
+<SYNC Start=1061710><P Class=KRCC>모두:예이!
+<SYNC Start=1063000><P Class=KRCC>&nbsp;
+<SYNC Start=1065580><P Class=KRCC>나카노 이쿠미:지옥의 존이 끝났네요.<br>(AKB48 Team8 돗토리현 대표)
+<SYNC Start=1067750><P Class=KRCC>&nbsp;
+<SYNC Start=1068540><P Class=KRCC>???:어려웠어
+<SYNC Start=1071025><P Class=KRCC>나카노 이쿠미:그럼 어서 다음 곡으로 갈까요?<br>(AKB48 Team48 돗토리현 대표)
+<SYNC Start=1073750><P Class=KRCC>시타오 미우:네. 가요!<br>(AKB48 Team8 야마구치현 대표)
+<SYNC Start=1077825><P Class=KRCC>요시다 카렌:그럼 다음곡 가겠습니다.<br>(AKB48 Team8 후쿠오카현 대표)
+<SYNC Start=1079007><P Class=KRCC>요시다 카렌:앞서 발매된 AKB48 53번째 뉴싱글을<br>(AKB48 Team8 후쿠오카현 대표)
+<SYNC Start=1083790><P Class=KRCC>요시다 카렌:이 12명이서 펼쳐보이겠습니다<br>(AKB48 Team8 후쿠오카현 대표)
+<SYNC Start=1087250><P Class=KRCC>&nbsp;
+<SYNC Start=1089600><P Class=KRCC>요시다 카렌:그럼, 들어주세요. 센티멘탈 트레인<br>(AKB48 Team8 후쿠오카현 대표)
+<SYNC Start=1090438><P Class=KRCC>センチメンタルトレイン<br>센치멘탈 트레인<br>센티멘탈 트레인
+<SYNC Start=1091726><P Class=KRCC>&nbsp;
+<SYNC Start=1092500><P Class=KRCC>センチメンタルトレイン<br>센치멘탈 트레인<br>센티멘탈 트레인
+<SYNC Start=1113700><P Class=KRCC>&nbsp;
+<SYNC Start=1113801><P Class=KRCC>田園地帶走る銀色の電車が<br>덴엔치타이 하시루 긴이로노 덴샤가<br>전원지를 달리는 은색의 전차가
+<SYNC Start=1117810><P Class=KRCC>スピ―ド落としたら（近づく驛）<br>스피-도 오토시타라 (치카츠쿠 에키)<br>속도를 줄이면 (다가오는 역에)
+<SYNC Start=1121640><P Class=KRCC>今日も君が乘って來るうだろうか？（グレ―の制服で）<br>쿄-모 키미가 놋테쿠루 다로-카 (구레-노 세-후쿠데)<br>오늘도 너가 타고 오는걸까? (회색의 교복을 입고)
+<SYNC Start=1129404><P Class=KRCC>ポニ―テ―ルの日はテストがあるんだよね<br>포니-테-루노 히와 테스토가 아룬다요네<br>포니테일을 묶은 날에는 테스트가 있는 거였지
+<SYNC Start=1132840><P Class=KRCC>氣合い入れるんだって…（○で聞いた）<br>키아이 이레루닷테... (우와사데 키이타)<br>기합을 준다면서... (소문으로 들었어)
+<SYNC Start=1136640><P Class=KRCC>少し離れ 僕はそっとエ―ルを送った<br>스코시 하나레 보쿠와 솟토 에-루오 오쿳타<br>조금 떨어져서 나는 살그머니 응원했어
+<SYNC Start=1143505><P Class=KRCC>それは戀と呼べるような確かなものじゃなく（初めての）<br>소레와 코이토 요베루요-나 타시카나 모노쟈 나쿠 (하지메테노)<br>그건 확실하게 사랑이라고 부를만한건 아니고 (처음으로)
+<SYNC Start=1151201><P Class=KRCC>自分でも戶惑ってる感情だ<br>지분데모 토마돗테루 칸죠-다<br>스스로도 당황스런 감정이야
+<SYNC Start=1157950><P Class=KRCC>&nbsp;
+<SYNC Start=1161750><P Class=KRCC>こんなに切ない朝が來るなんて<br>콘나니 세츠나이 아사가 쿠루난테<br>이렇게도 애절한 아침이 오다니
+<SYNC Start=1166614><P Class=KRCC>今まで予想もしなかった<br>이마마데 요소-모 시나캇타<br>지금까지 상상도 못했어
+<SYNC Start=1170202><P Class=KRCC>ときめきなのか 抑えてた何か 叫ぼうとしている<br>토키메키나노카 오사에테타 나니카 사케오-토 시테이루<br>설렘일까 억눌리던 무언가가 외치려 하고있어
+<SYNC Start=1176365><P Class=KRCC>本當の氣持ちをはっきりできたら<br>혼토-노 키모치오 핫키리 데키타라<br>진짜 속마음을 분명히 한다면
+<SYNC Start=1181698><P Class=KRCC>この胸のモヤモヤ消えるのか？<br>코노 무네노 모야모야 키에루노카?<br>이 가슴의 답답함도 사라지는 걸까?
+<SYNC Start=1185585><P Class=KRCC>何もしない 何もできない日○は<br>나니모 시나이 나니모 데키나이 히비와<br>아무 것도 하지 않고 아무 것도 못하는 날들은
+<SYNC Start=1191314><P Class=KRCC>センチメンタルトレイン<br>센치멘타루 토레인<br>센티멘탈 트레인
+<SYNC Start=1195900><P Class=KRCC>卒業までの 一日 また一日<br>소츠교-마데 도 이치니치 마타 이치니치<br>졸업까지의 하루 또 하루
+<SYNC Start=1199850><P Class=KRCC>すべてが輝きながら<br>스베테가 카가야키나가라<br>모든 것이 빛나면서
+<SYNC Start=1203079><P Class=KRCC>この電車 どこへと向かうのだろうか？<br>코노 덴샤 도코에토 무카우노다로-카<br>이 열차는 어디를 향해서 가는 걸까?
+<SYNC Start=1210850><P Class=KRCC>&nbsp;
+<SYNC Start=1214000><P Class=KRCC>こんなに切ない朝が來るなんて<br>콘나니 세츠나이 아사가 쿠루난테<br>이렇게도 애절한 아침이 오다니
+<SYNC Start=1218838><P Class=KRCC>今まで予想もしなかった<br>이마마데 요소-모 시나캇타<br>지금까지 예상도 못했어
+<SYNC Start=1222340><P Class=KRCC>ときめきなのか 抑えてた何か 叫ぼうとしている<br>토키메키나노카 오사에테타 나니카 사케보오-토 시테이루<br>설렘일까 억눌리던 무언가가 외치려 하고있어
+<SYNC Start=1228385><P Class=KRCC>本當の氣持ちをはっきりできたら<br>혼토-노 키모치오 핫키리 데키타라<br>진짜 속마음을 분명히 한다면
+<SYNC Start=1233777><P Class=KRCC>この胸のモヤモヤ消えるのか？<br>코노 무네노 모야모야 키에루노카?<br>이 가슴의 답답함도 사라지는 걸까?
+<SYNC Start=1237479><P Class=KRCC>何もしない 何もできない日○は<br>나니모 시나이 나니모 데키나이 히비와<br>아무 것도 하지 않고 아무 것도 못하는 날들은
+<SYNC Start=1243174><P Class=KRCC>センチメンタルトレイン<br>센치멘타루 토레인<br>센티멘탈 트레인
+<SYNC Start=1247050><P Class=KRCC>走り續ける<br>하시리 츠즈케루<br>계속 달려나가
+<SYNC Start=1251650><P Class=KRCC>&nbsp;
+<SYNC Start=1258739><P Class=KRCC>好きなんだ<br>스키난다<br>좋아해요
+<SYNC Start=1294000><P Class=KRCC>&nbsp;
+<SYNC Start=1294133><P Class=KRCC>眩しいくらい鮮やかな<br>마부시이쿠라이아자야카나<br>눈부실 정도로 산뜻한
+<SYNC Start=1296820><P Class=KRCC>眞っ靑な海と晴れた空<br>맛사오나우미토하레타소라<br>새파란 바다와 맑은 하늘
+<SYNC Start=1299685><P Class=KRCC>もう太陽から逃げられない<br>모-타이요-카라니게라레나이<br>더는 태양을 피할 수 없어
+<SYNC Start=1303100><P Class=KRCC>&nbsp;
+<SYNC Start=1305055><P Class=KRCC>いつものグル―プみんなで<br>이츠모노그루-푸민나데<br>항상 노는 아이들과
+<SYNC Start=1307838><P Class=KRCC>渚で騷いだバ―ベキュ―<br>나기사데사와이다바-베큐-<br>해변가에서 떠뜰썩한 바베큐
+<SYNC Start=1310629><P Class=KRCC>あいつと彼女はいい感じだね<br>아이츠토카노죠와이이칸지다네<br>쟤랑 그녀는 분위기가 좋네
+<SYNC Start=1314720><P Class=KRCC>&nbsp;
+<SYNC Start=1315650><P Class=KRCC>君と僕は 仲がよすぎて<br>키미토보쿠와 나카가요스기테<br>너랑 난 나카가요스기테
+<SYNC Start=1321114><P Class=KRCC>冗談ばかり言ってる<br>죠-단바카리잇테루<br>농담만 주고 받아
+<SYNC Start=1326578><P Class=KRCC>眞面目な顔をお互いするだけで<br>마지메나카오오오타가이스루다케데<br>서로 진지한 얼굴로 대하면
+<SYNC Start=1331979><P Class=KRCC>なんだか恥ずかしくなる<br>난다카하즈카시쿠나루<br>어쩐지 부끄러워
+<SYNC Start=1337529><P Class=KRCC>#好きなんだ<br>핫슈타그 스키난다<br>#좋아해
+<SYNC Start=1341298><P Class=KRCC>僕は○く<br>보쿠와츠부야쿠<br>난 트윗했어
+<SYNC Start=1344329><P Class=KRCC>この胸の熱い氣持ち<br>코노무네노아츠이키모치<br>이 가슴의 뜨거운 감정
+<SYNC Start=1348374><P Class=KRCC>SNS 上げてみた<br>에스엔에스 아게테미타<br>SNS 올려봤어
+<SYNC Start=1352369><P Class=KRCC>料理の寫眞<br>료-리노샤신<br>음식 사진
+<SYNC Start=1355156><P Class=KRCC>ぼんやりと誰かの影<br>본야리토다레카노카게<br>어렴풋한 누군가의 그림자
+<SYNC Start=1360525><P Class=KRCC>さりげなく片想い<br>사리게나쿠카타오모이<br>서스럼 없이 짝사랑
+<SYNC Start=1364250><P Class=KRCC>&nbsp;
+<SYNC Start=1375614><P Class=KRCC>#好きなんだ<br>핫슈타그 스키난다<br>#좋아해
+<SYNC Start=1379898><P Class=KRCC>僕は○く<br>보쿠와츠부야쿠<br>난 트윗했어
+<SYNC Start=1382638><P Class=KRCC>この胸の熱い氣持ち<br>코노 무네노 아츠이키모치<br>이 가슴의 뜨거운 감정
+<SYNC Start=1386770><P Class=KRCC>リプライ 君からだ<br>리프라이 키미카라다<br>reply 네가 보냈어
+<SYNC Start=1390778><P Class=KRCC>スイカの寫眞<br>스이카노샤신<br>수박 사진
+<SYNC Start=1393625><P Class=KRCC>空振りの僕が寫る<br>카라부리노보쿠가우츠루<br>헛스윙을 하는 내가 찍혔어
+<SYNC Start=1398414><P Class=KRCC>大好きな人となう<br>다이스키나히토토나우<br>좋아하는 사람과 함께
+<SYNC Start=1403163><P Class=KRCC>&nbsp;
+<SYNC Start=1404501><P Class=KRCC>大好きな人となう<br>다이스키나히토토나우<br>좋아하는 사람과 함께
+<SYNC Start=1408770><P Class=KRCC>&nbsp;
+<SYNC Start=1438485><P Class=KRCC>LOVE TRIP
+<SYNC Start=1457000><P Class=KRCC>&nbsp;
+<SYNC Start=1457200><P Class=KRCC>僕らの知ってる街は<br>보쿠라노싯테루마치와<br>우리가 알고있는 거리는
+<SYNC Start=1461005><P Class=KRCC>&nbsp;
+<SYNC Start=1461691><P Class=KRCC>どこへ行ってしまったのだろう？<br>도코에잇테시맛타노다로?<br>어디로 가버린 걸까?
+<SYNC Start=1467710><P Class=KRCC>&nbsp;
+<SYNC Start=1469704><P Class=KRCC>空き地も丘も消えてた<br>아키치모오카모키에테타<br>공터도 언덕도 사라져버린
+<SYNC Start=1474100><P Class=KRCC>&nbsp;
+<SYNC Start=1475614><P Class=KRCC>見たことない景色が廣がる<br>미타코토나이 케시키가히로가루<br>낯선 풍경이 펼쳐져
+<SYNC Start=1480429><P Class=KRCC>&nbsp;
+<SYNC Start=1482174><P Class=KRCC>記憶を修正しながら<br>키오쿠오슈-세이시나가라<br>기억을 수정해가면서
+<SYNC Start=1486700><P Class=KRCC>&nbsp;
+<SYNC Start=1488280><P Class=KRCC>いつしか大人になってしまった<br>이츠시카 오토나니낫테시맛타<br>어느새 어른이 되어버렸어
+<SYNC Start=1494310><P Class=KRCC>&nbsp;
+<SYNC Start=1495001><P Class=KRCC>過去か未來か？<br>카코카미라이카?<br>과거일까? 미래일까?
+<SYNC Start=1497494><P Class=KRCC>I wanna go
+<SYNC Start=1498604><P Class=KRCC>LOVE TRIP 時間の彼方へ<br>LOVE TRIP 토키노카나타에<br>LOVE TRIP 시간의 저편으로
+<SYNC Start=1501925><P Class=KRCC>LOVE TRIP 歸ろう<br>LOVE TRIP 카에로-오<br>LOVE TRIP 돌아가자
+<SYNC Start=1504938><P Class=KRCC>胸の奧にしまっていたあの頃<br>무네노오쿠니시맛테이타 아노 코로<br>가슴 속에 묻어뒀던 그 시절
+<SYNC Start=1510352><P Class=KRCC>I was there
+<SYNC Start=1511025><P Class=KRCC>LOVE TRIP 君はどこにいる？<br>LOVE TRIP 키미와도코니이루?<br>LOVE TRIP 넌 어디에 있어?
+<SYNC Start=1514425><P Class=KRCC>LOVE TRIP 會いたい<br>LOVE TRIP 아이타이<br>LOVE TRIP 보고 싶어
+<SYNC Start=1517314><P Class=KRCC>ずっと言い忘れたことかあるんだ<br>즛토이이와스레타코토가아룬다<br>줄곧 잊고서 말 못한 게 있어
+<SYNC Start=1522925><P Class=KRCC>&nbsp;
+<SYNC Start=1523354><P Class=KRCC>戀はいつしか上書きされて行くもの<br>코이와 이츠시카 우와가키사레테유쿠모노<br>사랑은 어느샌가 새로 덮어씌어져 가는 것
+<SYNC Start=1529804><P Class=KRCC>だけど最初の切なさ覺えてる<br>다케도 사이쇼노 세츠나사오보에테루<br>그렇지만 처음 애달픔은 기억하고 있어
+<SYNC Start=1535850><P Class=KRCC>&nbsp;
+<SYNC Start=1536379><P Class=KRCC>君と出會った夏の空の下<br>키미토데앗타 나츠노소라노시타<br>너와 만났던 여름의 하늘 아래
+<SYNC Start=1543200><P Class=KRCC>&nbsp;
+<SYNC Start=1555074><P Class=KRCC>君に會えたら<br>키미니아에타라<br>널 만날 수 있다면
+<SYNC Start=1558174><P Class=KRCC>何を言えるのだろう？<br>나니오이에루노다로?<br>무슨 말을 할 수 있을까?
+<SYNC Start=1561464><P Class=KRCC>あの日と同じ校舍の片隅で<br>아노히토오나지코-샤노카타스미데<br>그 날과 같은 교정의 한구석에서
+<SYNC Start=1567425><P Class=KRCC>大人になった僕はようやく<br>오토나니낫타보쿠와요-야쿠<br>어른이 된 나는 드디어
+<SYNC Start=1574400><P Class=KRCC>&nbsp;
+<SYNC Start=1575180><P Class=KRCC>氣持になれるろうか？<br>키모치니 나레루 로오카?<br>????????<br>이 부분 음독/해석이 정확히 어떻게 되나요?
+<SYNC Start=1581914><P Class=KRCC>I want
+<SYNC Start=1583194><P Class=KRCC>LOVE TRIP 君はどこにいる？<br>LOVE TRIP 키미와도코니이루?<br>LOVE TRIP 넌 어디에 있어?
+<SYNC Start=1586505><P Class=KRCC>LOVE TRIP 會いたい<br>LOVE TRIP 아이타이<br>LOVE TRIP 보고 싶어
+<SYNC Start=1589365><P Class=KRCC>ずっと言い忘れたことかあるんだ<br>즛토 이이와스레타 코토가 아룬다<br>줄곧 잊고서 말 못한 게 있어
+<SYNC Start=1595191><P Class=KRCC>戀は消えずに<br>코이와키에즈니<br>사랑은 사라지지 않고
+<SYNC Start=1598001><P Class=KRCC>心が蓋をするもの<br>코코로가후타오스루모노<br>마음이 뚜껑을 닫아두는 것
+<SYNC Start=1601785><P Class=KRCC>だから時○開いてみたくなる<br>다카라토기도키히라이테미타쿠나루<br>그래서 가끔 열어보고 싶어져
+<SYNC Start=1608201><P Class=KRCC>君を想った夏の靑い空<br>키미오오못타나츠노아오이소라<br>널 그렸던 여름의 파란 하늘
+<SYNC Start=1614850><P Class=KRCC>&nbsp;
+<SYNC Start=1615795><P Class=KRCC>(Love Trip Love, Love Love Trip)<br>(Love Trip Love, Love Love Trip)
+<SYNC Start=1618729><P Class=KRCC>&nbsp;
+<SYNC Start=1622140><P Class=KRCC>希望的リフレイン<br>키보오테키리후레인<br>희망적인 리프레인
+<SYNC Start=1639178><P Class=KRCC>&nbsp;
+<SYNC Start=1639345><P Class=KRCC>この角 曲がったら<br>코노카도마갓타라<br>이 코너를 돌면
+<SYNC Start=1645461><P Class=KRCC>君がいるとな<br>키미가이루토<br>너가 있을거란 것을
+<SYNC Start=1648176><P Class=KRCC>ぜかわかった<br>나제카와캇타<br>왠지 알고 있었어
+<SYNC Start=1651440><P Class=KRCC>陽射しの向こうから<br>히자시노무코오카라<br>햇살 너머에서
+<SYNC Start=1657451><P Class=KRCC>ふいに近づく<br>후이니치카즈쿠<br>갑자기 다가오는
+<SYNC Start=1660265><P Class=KRCC>予感がしたよ<br>요칸가시타요<br>예감이 들었어
+<SYNC Start=1663485><P Class=KRCC>本當の戀だから<br>혼토노코이다카라<br>진정한 사랑이니까
+<SYNC Start=1666226><P Class=KRCC>不思議なことがある<br>후시기나코토가아루<br>신기한 일이 있어
+<SYNC Start=1669138><P Class=KRCC>偶然が續くのは<br>구우젠가츠즈쿠노와<br>우연이 이어지는 건
+<SYNC Start=1672174><P Class=KRCC>運命のヒントだろう<br>운메이노힌토다로-<br>운명의 힌트겠지
+<SYNC Start=1676885><P Class=KRCC>&nbsp;
+<SYNC Start=1677785><P Class=KRCC>好きすぎて (好きすぎて)<br>스키스기테 (스키스기테)<br>정말 좋아해서 (정말 좋아해서)
+<SYNC Start=1681740><P Class=KRCC>好きすぎて (WOW WOW WOW…)<br>스키스기테 (WOW WOW WOW…)<br>정말 좋아해서 (WOW WOW WOW…)
+<SYNC Start=1684156><P Class=KRCC>この胸が (この胸が)<br>코노무네가 (코노무네가)<br>이 마음이 (이 마음이)
+<SYNC Start=1685634><P Class=KRCC>切なくて (切なくて)<br>세츠나쿠테 (세츠나쿠테)<br>애달퍼서 (애달퍼서)
+<SYNC Start=1686685><P Class=KRCC>苦しくて (WOW WOW WOW…)<br>쿠루시쿠테 (WOW WOW WOW…)<br>괴로워서 (WOW WOW WOW…)
+<SYNC Start=1689838><P Class=KRCC>あきらめかけても<br>아키라메카케테모<br>단념하려고해도
+<SYNC Start=1693925><P Class=KRCC>また好きになる<br>마타스키니나루<br>다시 좋아하게 돼
+<SYNC Start=1696894><P Class=KRCC>希望的リフレイン<br>키보오테키리후레인<br>희망적 리프레인
+<SYNC Start=1701225><P Class=KRCC>&nbsp;
+<SYNC Start=1710125><P Class=KRCC>好きすぎて<br>스키스기테<br>정말 좋아해서
+<SYNC Start=1711585><P Class=KRCC>好きすぎて<br>스키스기테<br>정말 좋아해서
+<SYNC Start=1713495><P Class=KRCC>好きすぎて<br>스키스기테<br>정말 좋아해서
+<SYNC Start=1716498><P Class=KRCC>もう僕は<br>모-보쿠와<br>이제 나는
+<SYNC Start=1717907><P Class=KRCC>君以外見えてない<br>키미이가이미에테나이<br>너 밖에 보이지 않아
+<SYNC Start=1722579><P Class=KRCC>どんなに願っても<br>돈나니네가앗테모<br>아무리 바래도
+<SYNC Start=1727147><P Class=KRCC>○わないことわかってる<br>카나와나이 코토 와캇테루<br>이루어지지 않는 것 알고 있어
+<SYNC Start=1734432><P Class=KRCC>君だけが (君だけが)<br>키미다케가 (키미다케가)<br>너만이 (너만이)
+<SYNC Start=1737501><P Class=KRCC>君だけが (WOW WOW WOW…)<br>키미다케가 (WOW WOW WOW…)<br>너만이 (WOW WOW WOW…)
+<SYNC Start=1740664><P Class=KRCC>氣づかない(氣づかない)<br>키즈카나이(키즈카나이)<br>못 알아보는(못알아보는)
+<SYNC Start=1742178><P Class=KRCC>僕だけの (僕だけの)<br>보쿠다케노 (보쿠다케노)<br>나만의 (나만의)
+<SYNC Start=1743550><P Class=KRCC>花でいい (WOW WOW WOW…)<br>하나데이이 (WOW WOW WOW…)<br>꽃인게 좋아 (WOW WOW WOW…)
+<SYNC Start=1746629><P Class=KRCC>息をするその度<br>이키오스루소노타비<br>숨을 쉴 때마다
+<SYNC Start=1750908><P Class=KRCC>また好きになる<br>마타 스키니나루<br>다시 좋아하게 돼
+<SYNC Start=1753808><P Class=KRCC>終わらないリフレイン<br>오와라나이 리후레인<br>끝나지 않는 리프레인
+<SYNC Start=1757685><P Class=KRCC>好きになる<br>스키니나루<br>좋아하게 되는
+<SYNC Start=1759485><P Class=KRCC>希望的リフレイン<br>키보오테키 리후레인<br>희망적 리프레인
+<SYNC Start=1764600><P Class=KRCC>&nbsp;
+<SYNC Start=1793250><P Class=KRCC>센티멘탈 트레인,#好きなんだ, LOVE TRIP,希望的リフレイン<br>센치멘탈 트레인,해쉬태그스키난다,러브트립,키보테키 리프레인
+<SYNC Start=1797825><P Class=KRCC>...을 들으셨습니니다.
+<SYNC Start=1801414><P Class=KRCC>여러분 호응해 주셔서 감사합니다.
+<SYNC Start=1805814><P Class=KRCC>저희들도 텐션이 올라가고 있네요.
+<SYNC Start=1808700><P Class=KRCC>&nbsp;
+<SYNC Start=1812800><P Class=KRCC>야마다 나나미:이 이벤트 자체가 "꽃"이 들어가잖아요?<br>(AKB48 Team8 효고현 대표)
+<SYNC Start=1815580><P Class=KRCC>야마다 나나미:예를들어 맴버를 꽃으로 비유하는 걸 해보고 싶어요<br>(AKB48 Team8 효고현 대표)
+<SYNC Start=1823270><P Class=KRCC>야마다 나나미:우타다 하츠카 말해 주세요.<br>(AKB48 Team8 효고현 대표)/AKB48 Team8 아이치현 대표)
+<SYNC Start=1825345><P Class=KRCC>우타다 하츠카:저는 야마구치현의 대표인 시타오 미우짱을<br>(AKB48 Team8 아이치현 대표)
+<SYNC Start=1830085><P Class=KRCC>우타다 하츠카:백합 같다고 생각해요.<br>(AKB48 Team8 아이치현 대표)
+<SYNC Start=1832255><P Class=KRCC>미우/멤버:에~~ 백합이요? /어째서요?/ 정말이요?<br>(AKB48 Team8 야마구치현 대표)
+<SYNC Start=1835575><P Class=KRCC>우타다 하츠카:뭐랄까? 굉장히 백합은 이쁘잖아요.<br>(AKB48 Team8 아이치현 대표)
+<SYNC Start=1839091><P Class=KRCC>우타다 하츠카:화려하지는 않지만 그것은 1송이뿐이라도<br>(AKB48 Team8 아이치현 대표)
+<SYNC Start=1842598><P Class=KRCC>우타다 하츠카:이쁘고 차분한 아름다움이니까.<br>(AKB48 Team8 아이치현 대표)
+<SYNC Start=1847265><P Class=KRCC>우타다 하츠카:미우짱에게 딱 맞아서 백합이라고 했어요.<br>(AKB48 Team8 아이치현 대표)
+<SYNC Start=1850525><P Class=KRCC>시타오 미우:감사합니다.(잠시 후 팔 들기 전 기쁘네요 함.)<br>(AKB48 Team8 야마구치현 대표)
+<SYNC Start=1852385><P Class=KRCC>&nbsp;
+<SYNC Start=1854300><P Class=KRCC>야마다 나나미/멤버:(미우보며)백합이 있네요./(표현)훌륭해.<br>(AKB48 Team8 효고현 대표)
+<SYNC Start=1856680><P Class=KRCC>&nbsp;
+<SYNC Start=1856714><P Class=KRCC>야마다 나나미:한사람 더 물어볼께요? 히토미 코토네?<br>(AKB48 Team8 효고현 대표)<br>/(AKB48 Team8 오카야마현 대표)
+<SYNC Start=1861100><P Class=KRCC>&nbsp;
+<SYNC Start=1862493><P Class=KRCC>야마다 나나미:어때요? 예를들어 맴버를...?<br>(AKB48 Team8 효고현 대표)
+<SYNC Start=1864860><P Class=KRCC>히토미 코토네:좀 고민했지만 야마다가 해바라기 같다고 생각되요<br>(AKB48 Team8 오카야마현 대표)
+<SYNC Start=1876300><P Class=KRCC>&nbsp;
+<SYNC Start=1876368><P Class=KRCC>히토미 코토네:해바라기의 가운데랑 똑같아요.<br>(AKB48 Team8 오카야마현 대표)/(AKB48 Team8 효고현 대표)
+<SYNC Start=1883125><P Class=KRCC>야마다 나나미:(헛웃음) 거기서 이예이라고 잘 모르겠어.<br>(AKB48 Team8 효고현 대표)
+<SYNC Start=1886750><P Class=KRCC>&nbsp;
+<SYNC Start=1886987><P Class=KRCC>히토미 코토네:해바라기 모양 얼굴에 껴줬으면 해.갈색 부분을(의역)<br>(AKB48 Team8 오카야마현 대표)
+<SYNC Start=1888950><P Class=KRCC>&nbsp;
+<SYNC Start=1894095><P Class=KRCC>야마다 나나미:야마구치까지 와서 괴롭힘 당하네<br>(AKB48 Team8 효고현 대표)
+<SYNC Start=1897500><P Class=KRCC>&nbsp;
+<SYNC Start=1897538><P Class=KRCC>야마다 나나미:해바라기라고 하니 기쁘기는 하지만...<br>(AKB48 Team8 효고현 대표)
+<SYNC Start=1899900><P Class=KRCC>&nbsp;
+<SYNC Start=1903614><P Class=KRCC>히토미 코토네:카렌짱 카렌짱은 갈색까지 가지 않았네<br>(AKB48 Team8 오카야마현 대표)
+<SYNC Start=1910350><P Class=KRCC>&nbsp;
+<SYNC Start=1920410><P Class=KRCC>야마다 나나미:멋있는 말 감사합니다.<br>(AKB48 Team8 효고현 대표)
+<SYNC Start=1922250><P Class=KRCC>&nbsp;
+<SYNC Start=1932220><P Class=KRCC>야마다 나나미:그럼 다음곡을 해보도록 하겠습니다<br>(AKB48 Team8 효고현 대표)
+<SYNC Start=1933880><P Class=KRCC>야마다 나나미:팀8의 발라드 곡입니다<br>(AKB48 Team8 효고현 대표)
+<SYNC Start=1936185><P Class=KRCC>야마다 나나미:여러분도 부디 같이 불러주세요.<br>(AKB48 Team8 효고현 대표)
+<SYNC Start=1938300><P Class=KRCC>&nbsp;
+<SYNC Start=1938800><P Class=KRCC>야마다 나나미: 그럼 들어주세요.<br>(AKB48 Team8 효고현 대표)
+<SYNC Start=1940114><P Class=KRCC>一生の間に何人と出逢えるのだろう<br>잇쇼오노 아이다니 난닌토 데아에루노다로오<br>일생 동안에 몇명과 만날까
+<SYNC Start=1942400><P Class=KRCC>&nbsp;
+<SYNC Start=1943680><P Class=KRCC>一生の間に何人と出逢えるのだろう<br>잇쇼오노 아이다니 난닌토 데아에루노다로오<br>일생 동안에 몇명과 만날까
+<SYNC Start=1946020><P Class=KRCC>미우:여러분 오늘은 여러분과 만나서 정말 행복합니다.<br>(AKB48 Team8 야마구치현 대표)
+<SYNC Start=1949480><P Class=KRCC>시타오 미우:이 행복한 감사의 기분을 담아 부르겠습니다.<br>(AKB48 Team8 야마구치현 대표)
+<SYNC Start=1952980><P Class=KRCC>&nbsp;
+<SYNC Start=1955079><P Class=KRCC>どこかで誰かの笑い聲がして<br>도코카데 다레카노 와라이고에가 시테<br>어딘가에서 누군가의 웃는 소리가 들려
+<SYNC Start=1960000><P Class=KRCC>風がしあわせを運んで來るよ<br>카제가 시아와세오 하콘데쿠루요<br>바람이 행복을 옮겨주고 있어
+<SYNC Start=1965604><P Class=KRCC>一人で步くには不安もあるけれど<br>히토리데 아루쿠니와 후안모 아루케레도<br>홀로 걷는 건 불안하긴 하지만
+<SYNC Start=1970411><P Class=KRCC>世界にはいっぱい"誰か"がいる<br>세카이니와 잇파이 다레카 가 이루<br>세상엔 가득히 "누군가"가 있어
+<SYNC Start=1976401><P Class=KRCC>公園の木○たちが<br>코오엔노 키기타치가<br>공원의 나뭇가지들이
+<SYNC Start=1978905><P Class=KRCC>太陽の光の下で一つの影を作って<br>타이요오노 히카리노 모토데 히토츠노 카게오 츠쿳테<br>태양빛 아래에서 하나의 그림자를 만들고
+<SYNC Start=1986240><P Class=KRCC>枝の葉と葉が重なり合い共に生きている<br>에다노 하토 하가 카사나리아이 토모니 이키테이루<br>가지의 잎들은 서로 쌓여 함께 살아가고 있어
+<SYNC Start=1995874><P Class=KRCC>何人と出逢えるのだろう 一生の間に<br>난닌토 데아에루노다로오 잇쇼오노 아이다니<br>몇 명과 만날 수 있는걸까 한 번의 삶 동안
+<SYNC Start=2006523><P Class=KRCC>夢を語り合えるようなかけがえのない存在<br>유메오 카타리아에루요오나 카케가에노 나이 손자이<br>꿈을 서로 얘기하는 듯한 둘도 없는 존재야
+<SYNC Start=2017631><P Class=KRCC>晴れの日や雨の日 どんな空の下でも<br>하레노 히야 아메노 히 돈나 소라노 시타데모<br>맑은 날이나 비오는 날 어느 하늘 아래라도
+<SYNC Start=2027120><P Class=KRCC>君が隣りにいてくれるなら明日はいつだって樂しい<br>키미가 토나리니 이테쿠레루나라 아시타와 이츠닷테 타노시이<br>니가 곁에 있어준다면 내일은 언제라도 즐거울꺼야
+<SYNC Start=2038330><P Class=KRCC>&nbsp;
+<SYNC Start=2051594><P Class=KRCC>すれ違うだけじゃなく<br>스레치가우다케자 나쿠<br>스쳐 지나가지만 않고
+<SYNC Start=2054250><P Class=KRCC>&nbsp;
+<SYNC Start=2054285><P Class=KRCC>知り合って仲良くなって一緖に步きたくなる<br>시리앗테 나카요쿠 낫테 잇쇼니 아루키타쿠 나루<br>알게 되고 친해지며 함께 걷고 싶어져
+<SYNC Start=2061785><P Class=KRCC>ある日 突然 橫を見たら"誰か"がいるのかな<br>아루 히 토츠젠 요코오 미타라 다레카 가 이루노카나<br>언젠가 우연히 옆을 본다면 "누군가"가 있을까나
+<SYNC Start=2072380><P Class=KRCC>&nbsp;
+<SYNC Start=2074329><P Class=KRCC>何人と出逢えるのだろう 一生の間に<br>난닌토 데아에루노다로오 잇쇼오노 아이다니<br>몇 명과 만날 수 있는걸까 한 번의 삶 동안
+<SYNC Start=2084711><P Class=KRCC>夢を語り合えるようなかけがえのない存在<br>유메오 카타리아에루요오나 카케가에노 나이 손자이<br>꿈을 서로 얘기하는 듯한 둘도 없는 존재야
+<SYNC Start=2095685><P Class=KRCC>晴れの日や雨の日 どんな空の下でも<br>하레노 히야 아메노 히 돈나 소라노 시타데모<br>맑은 날이나 비오는 날 어느 하늘 아래라도
+<SYNC Start=2105414><P Class=KRCC>君が隣りにいてくれるなら明日はいつだって樂しい<br>키미가 토나리니 이테쿠레루나라 아시타와 이츠닷테 타노시이<br>니가 곁에 있어준다면 내일은 언제라도 즐거울꺼야
+<SYNC Start=2116950><P Class=KRCC>&nbsp;
+<SYNC Start=2135950><P Class=KRCC>교텐 유리나:네. 一生の間に何人と出逢えるのだろう<br>잇쇼오노 아이다니 난닌토 데아에루노다로오<br>네. 일생 동안에 몇명과 만날까<br>(AKB48 Team8 카가와현 대표)
+<SYNC Start=2139840><P Class=KRCC>교텐 유리나:들어주셔서 감사합니다.(의역)<br>(AKB48 Team8 카가와현 대표)
+<SYNC Start=2141850><P Class=KRCC>&nbsp;
+<SYNC Start=2142285><P Class=KRCC>전원:감사합니다.
+<SYNC Start=2143850><P Class=KRCC>&nbsp;
+<SYNC Start=2150485><P Class=KRCC>시타오 미우:네. 다음은 마지막 곡이 됩니다.<br>(AKB48 Team8 야마구치현 대표)
+<SYNC Start=2154000><P Class=KRCC>&nbsp;
+<SYNC Start=2156038><P Class=KRCC>시타오 미우:빠르네요.<br>(AKB48 Team8 야마구치현 대표)
+<SYNC Start=2156945><P Class=KRCC>시타오 미우:다음곡은 팀8의 테마송입니다.<br>(AKB48 Team8 야마구치현 대표)
+<SYNC Start=2164514><P Class=KRCC>시타오 미우:여러분 말하고 싶은 말 준비돼셨나요?<br>(AKB48 Team8 야마구치현 대표)
+<SYNC Start=2172100><P Class=KRCC>&nbsp;
+<SYNC Start=2174220><P Class=KRCC>시타오 미우:감사합니다.<br>(AKB48 Team8 야마구치현 대표)
+<SYNC Start=2175300><P Class=KRCC>&nbsp;
+<SYNC Start=2176760><P Class=KRCC>시타오 미우:그럼 들어주세요.<br>(AKB48 Team8 야마구치현 대표)
+<SYNC Start=2178785><P Class=KRCC>미우: 47の素敵な街へ<br>욘주우나나노 스테키나 마치에<br>47개의 멋진 거리로
+<SYNC Start=2182790><P Class=KRCC>&nbsp;
+<SYNC Start=2183214><P Class=KRCC>47の素敵な街へ<br>욘주우나나노 스테키나 마치에<br>47개의 멋진 거리로
+<SYNC Start=2208800><P Class=KRCC>&nbsp;
+<SYNC Start=2208891><P Class=KRCC>眞っ靑な空を見上げて<br>맛사오나소라오미아게테<br>새파란 하늘을 올려보면서
+<SYNC Start=2213291><P Class=KRCC>誰かのこと思ってますか？<br>다레카노 코토 오못테마스카?<br>누군가를 생각하고 있나요?
+<SYNC Start=2218750><P Class=KRCC>今すぐに會いたくなった<br>이마스쿠니아이타쿠낫타<br>지금 바로 만나고 싶어지는
+<SYNC Start=2223302><P Class=KRCC>誰かいるっていいね<br>다레카이룻테이이네<br>누군가가 있다는 건 좋은 거네
+<SYNC Start=2228850><P Class=KRCC>しあわせなこと<br>시아와세나코토<br>행복한 것을
+<SYNC Start=2231260><P Class=KRCC>見つけた時は<br>미츠케타토키와<br>찾았을 때는
+<SYNC Start=2233723><P Class=KRCC>君に分けてあげたい<br>키미니와케테아게타이<br>당신에게 나누어 주고 싶어
+<SYNC Start=2238614><P Class=KRCC>47の素敵なあの街へ<br>욘주우나나노 카노스테키나아노마치에<br>47의 멋진 이 거리에서
+<SYNC Start=2244446><P Class=KRCC>歌を歌いながら<br>우타오우타이나가라<br>노래를 부르면서
+<SYNC Start=2246898><P Class=KRCC>會いに行こう<br>아이니유코오<br>만나러 갈거야
+<SYNC Start=2249614><P Class=KRCC>大好きな車に乘って<br>다이스키나쿠루마니놋테<br>제일 좋아하는 자동차를 타고
+<SYNC Start=2254001><P Class=KRCC>わくわくする分<br>와쿠와쿠스루분<br>두근거리는 만큼
+<SYNC Start=2257264><P Class=KRCC>近くなる<br>치카쿠나루<br>가까워져
+<SYNC Start=2259800><P Class=KRCC>&nbsp;
+<SYNC Start=2259888><P Class=KRCC>하루모토 유키:도쿠시마<br>(AKB48 Team8 도쿠시마현 대표)
+<SYNC Start=2261011><P Class=KRCC>릿센 아이리:고치<br>(AKB48 Team8 고치현 대표)
+<SYNC Start=2262340><P Class=KRCC>우타다 하츠카:아이치<br>(AKB48 Team8 아이치현 대표)
+<SYNC Start=2263560><P Class=KRCC>교텐 유리나:카가와<br>(AKB48 Team8 카가와현 대표)
+<SYNC Start=2264740><P Class=KRCC>히토미 코토네:오카야마<br>(AKB48 Team8 오카야마현 대표)
+<SYNC Start=2265914><P Class=KRCC>시타오 미우:야마구치<br>(AKB48 Team8 야마구치현 대표)
+<SYNC Start=2267290><P Class=KRCC>나카노 이쿠미:돗토리<br>(AKB48 Team8 돗토리현 대표)
+<SYNC Start=2268685><P Class=KRCC>야마다 나나미:효고<br>(AKB48 Team8 효고현 대표)
+<SYNC Start=2269820><P Class=KRCC>오쿠모토 히나노:히로시마<br>(AKB48 Team8 히로시마현 대표)
+<SYNC Start=2271100><P Class=KRCC>요시다 카렌:후쿠오카<br>(AKB48 Team8 후쿠오카현 대표)
+<SYNC Start=2272625><P Class=KRCC>오쿠하라 히나코:시마네<br>(AKB48 Team8 시마네현 대표)
+<SYNC Start=2273704><P Class=KRCC>카와하라 미사키:사가<br>(AKB48 Team8 사가현 대표)
+<SYNC Start=2274700><P Class=KRCC>&nbsp;
+<SYNC Start=2280165><P Class=KRCC>47の素敵なあの街へ<br>욘주우나나노 스테키나아노 마치에<br>47의 멋진 이 거리에서
+<SYNC Start=2285285><P Class=KRCC>歌を歌いながら<br>우타오우타이나가라<br>노래를 부르면서
+<SYNC Start=2287798><P Class=KRCC>會いに行こう<br>아이니유코-<br>만나러 갈거야
+<SYNC Start=2290220><P Class=KRCC>大好きな車に乘って<br>다이스키나쿠루마니놋테<br>제일 좋아하는 자동차를 타고
+<SYNC Start=2295029><P Class=KRCC>わくわくする分<br>와쿠와쿠스루분<br>두근거리는 만큼
+<SYNC Start=2297485><P Class=KRCC>近くなる<br>치카쿠나루<br>가까워져
+<SYNC Start=2300515><P Class=KRCC>47は行きたい街の數<br>욘주우나나와유키타이마치노카즈<br>47에 가고 싶은 길의 수만큼
+<SYNC Start=2305780><P Class=KRCC>ずっと私のこと<br>즛토 와타시노코토<br>계속 나를
+<SYNC Start=2308064><P Class=KRCC>待ってくれてる<br>맛테쿠레테루<br>기다려 줄거야
+<SYNC Start=2310894><P Class=KRCC>いつの日か全部回って<br>이츠노히카젠부마왓테<br>언젠가 전부 돌면서
+<SYNC Start=2315450><P Class=KRCC>日本全國の友達と<br>니혼젠고쿠노 도모타치토<br>일본전국의 친구들과
+<SYNC Start=2321438><P Class=KRCC>笑顔の輪<br>에가오노와<br>미소의 고리를
+<SYNC Start=2324310><P Class=KRCC>&nbsp;
+<SYNC Start=2353350><P Class=KRCC>시타오 미우:감사했습니다.
+<SYNC Start=2354850><P Class=KRCC>(전원)감사했습니다.
+<SYNC Start=2357850><P Class=KRCC>&nbsp;
+<SYNC Start=2365957><P Class=KRCC>감사했습니다.
+<SYNC Start=2367769><P Class=KRCC>여러분 감사했습니다.
+<SYNC Start=2369029><P Class=KRCC>&nbsp;
+<SYNC Start=2394729><P Class=KRCC>앙코르(앵콜)
+<SYNC Start=2506800><P Class=KRCC>&nbsp;
+<SYNC Start=2507000><P Class=KRCC>靑くさいロック<br>아오쿠사이 롯쿠<br>유치한 록
+<SYNC Start=2520100><P Class=KRCC>&nbsp;
+<SYNC Start=2520964><P Class=KRCC>ある日 氣づいた現實は<br>아루히 키즈이타 겐지츠와<br>어느 날 깨달았던 현실은
+<SYNC Start=2526166><P Class=KRCC>そんなは若くないってこと<br>손나와 와카쿠 나잇테 코토<br>어리지 않다는 거였지
+<SYNC Start=2530510><P Class=KRCC>&nbsp;
+<SYNC Start=2530829><P Class=KRCC>斜に構えて拗ねてても<br>하스니 카마에테 스네테테모<br>괜히 뻗대며 토라져봤자
+<SYNC Start=2536505><P Class=KRCC>人生を無馱にするだけ<br>진세이오 무다니 스루다케<br>인생을 헛되이 보낼 뿐이야
+<SYNC Start=2540798><P Class=KRCC>窓ガラス 石を投げたって<br>마도가라스 히시오 나게탓테<br>유리창에 돌을 던져봐도
+<SYNC Start=2547000><P Class=KRCC>人も社會も變わらなかった<br>히토모 샤카이모 카와라나캇타<br>사람도 회사도 변하지 않았어
+<SYNC Start=2551740><P Class=KRCC>無力な自分に腹立つ<br>무료쿠나 지분니 하라타츠<br>무력한 내게 짜증이 나
+<SYNC Start=2556525><P Class=KRCC>靑くさいロックの負けだ<br>아오쿠사이 록쿠노 마케다<br>서툴렀던 록의 패배야
+<SYNC Start=2559185><P Class=KRCC>あんなに叫び續けて<br>안나니 사케비 츠즈케테<br>그렇게 계속 소리를 지르며
+<SYNC Start=2562564><P Class=KRCC>鬪った情熱はどこに消えた?<br>타타캇타 죠레츠와 도코니 키에타<br>싸우던 열정은 어디로 사라진 걸까?
+<SYNC Start=2566850><P Class=KRCC>ハウったマイクのせいか?<br>하웃타 마이크노 세이카?<br>하울링이 생긴 마이크 때문일까?
+<SYNC Start=2569540><P Class=KRCC>白けてしまった僕は<br>시라케테 시맛타 보쿠와<br>흥이 깨져버린 나는
+<SYNC Start=2572898><P Class=KRCC>いつの間にか大人になってた<br>이츠노마니카 오토나니 낫테타<br>어느 샌가 어른이 되었지
+<SYNC Start=2579810><P Class=KRCC>勝てねえ???夢もねえ<br>카테네에???유메모 네에<br>못 이겨???꿈도 없어
+<SYNC Start=2582220><P Class=KRCC>ねえねえで あきらめて後悔ねえか?<br>네에 네에데 아키라메테 코카이네에카?<br>없어 없어라며 포기하면 후회 없을텐가?
+<SYNC Start=2585300><P Class=KRCC>まだ まだ まだ もっとやれんじゃね?<br>마다 마다 마다 못토 야렌쟈네?<br>아직 아직 아직 좀 더 할 수 있잖아?
+<SYNC Start=2588050><P Class=KRCC>Do! Do! 1! 2! 3! 4!
+<SYNC Start=2590290><P Class=KRCC>&nbsp;
+<SYNC Start=2603000><P Class=KRCC>負け犬の遠吠えでいいんだ<br>마케이누노 토보에데 이인다<br>패배자의 멀리서 짖는 울음소리라도 좋아
+<SYNC Start=2608780><P Class=KRCC>きっと誰かが聽いてくれてる<br>킷토 다레카가 키테쿠레테루<br>분명 누군가가 들어줄 거야
+<SYNC Start=2613429><P Class=KRCC>何より自分が歌いたくなったよ<br>나니요리 지분가 우타이타쿠낫타요<br>무엇보다 내가 노래하고 싶어졌어
+<SYNC Start=2620085><P Class=KRCC>&nbsp;
+<SYNC Start=2620757><P Class=KRCC>古くさいロックで勝とう<br>후루쿠사이 록쿠데 카토우<br>케케묵은 록으로 이겨보자
+<SYNC Start=2623498><P Class=KRCC>今でも聲は出るはず<br>이마데모 코에와 데루하즈<br>지금도 목소리는 나올테지
+<SYNC Start=2627230><P Class=KRCC>怒りはこの胸でくすぶってる<br>이카리와 코노 무네데 쿠스붓테루<br>분노는 이 가슴에 맺혀 있어
+<SYNC Start=2631330><P Class=KRCC>かすれたシャウトのせいか?<br>카스레타 샤우토노 세이카?<br>쉬어버린 목의 샤우팅 때문일까?
+<SYNC Start=2633829><P Class=KRCC>なぜかあの頃よりも<br>나제카 아노 코노 요리모<br>어째선지 그 시절보다도
+<SYNC Start=2637285><P Class=KRCC>ストレ―トにぶつけたくなる<br>스토레토니 부츠케타쿠나루<br>바로 부딪히고 싶어져
+<SYNC Start=2641850><P Class=KRCC>靑くさいロックの負けだ<br>아오쿠사이 록쿠노 마케다<br>서툴렀던 록의 패배야
+<SYNC Start=2644029><P Class=KRCC>あんなに叫び續けて<br>안나니 사케비 츠즈케테<br>그렇게 계속 소리를 지르며
+<SYNC Start=2647598><P Class=KRCC>鬪った情熱はどこに消えた?<br>타타캇타 죠레츠와 도코니 키에타?<br>싸우던 열정은 어디로 사라진 걸까?
+<SYNC Start=2651764><P Class=KRCC>ハウったマイクのせいか?<br>하웃타 마이크노 세이카?<br>하울링이 생긴 마이크 때문일까?
+<SYNC Start=2654425><P Class=KRCC>白けてしまった僕はいつの間にか<br>시라케테 시맛타 보쿠와 이츠노마니카<br>흥이 깨져버린 나는 어느 샌가
+<SYNC Start=2660825><P Class=KRCC>未來の自分 ロックしてるか?<br>미라니오 지분 록쿠시테루카?<br>미래의 난 록을 부르고 있을까?
+<SYNC Start=2663714><P Class=KRCC>靑くさく…<br>아오쿠사쿠<br>서투르게…
+<SYNC Start=2668790><P Class=KRCC>&nbsp;
+<SYNC Start=2681354><P Class=KRCC>ハイテンション<br>하이텐쇼<br>HIGH TENSION
+<SYNC Start=2704100><P Class=KRCC>&nbsp;
+<SYNC Start=2705000><P Class=KRCC>カッコつけないで 聲を出せ！<br>캇코츠케나이데 코에오다세!<br>멋내지 말고 목소리를 내!?
+<SYNC Start=2708640><P Class=KRCC>リズムに乘らなきゃ 始まらない<br>리즈무니노라나캬 하지마라나이<br>리듬 타지 않으면 시작하지 않아?
+<SYNC Start=2712385><P Class=KRCC>この際 體裁 かなぐり捨てて<br>쿄노사이테이사이 카나구리스테테<br>?이 때 체면 벗어 던지고
+<SYNC Start=2716202><P Class=KRCC>騷いで 盛り上がって 祭りが終わるまで<br>소오이데 모리아갓테 마츠리가오와루마데<br>떠들고 달아오르자 축제가 끝날 때까지?
+<SYNC Start=2720000><P Class=KRCC>WOW???たった一度の人生<br>WOW???탓타 이치도노 진세이<br>WOW???단 한번인 인생
+<SYNC Start=2725720><P Class=KRCC>踊れ！<br>오..도..레!<br>춤..추..자!?
+<SYNC Start=2727202><P Class=KRCC>テンション ション ション ション ション<br>텐숀 숀숀숀숀<br>텐션 션션션션
+<SYNC Start=2729230><P Class=KRCC>テンション マックス!<br>텐숀 막크스!<br>텐션 막스!
+<SYNC Start=2730904><P Class=KRCC>ヒ―トアップ アップ アップ アップ アップ<br>히토압 압압압압<br>히트업 업업업업?
+<SYNC Start=2732794><P Class=KRCC>ヒ―トアップして行こう！<br>히토압시테 유코오!<br>히트업해서 가자!?
+<SYNC Start=2734664><P Class=KRCC>間違い英語 關係ねえ<br>마치가이에이고 카안케에네에<br>통하지 않는 영어는 상관없어?
+<SYNC Start=2738391><P Class=KRCC>不安?緊張もアゲアゲで<br>후안킨죠오모아게아게데<br>불안 긴장도 기분 좋게
+<SYNC Start=2741909><P Class=KRCC>テンション ション ション ション ション<br>텐숀 숀숀숀숀<br>텐션 션션션션?
+<SYNC Start=2743885><P Class=KRCC>テンション マックス！<br>텐숀 막크스!<br>텐션 막스!?
+<SYNC Start=2745750><P Class=KRCC>グッドジョブ ジョブ ジョブ ジョブ ジョブ<br>굿? ????<br>굿잡 잡잡잡잡
+<SYNC Start=2747505><P Class=KRCC>グッドジョブで大丈夫<br>굿?데 다이죠부<br>굿잡에서 괜찮아?
+<SYNC Start=2749385><P Class=KRCC>身體が搖れて來るだろう<br>카라다가 유레테 쿠루다로오<br>몸이 흔들려 오는 거야?
+<SYNC Start=2753020><P Class=KRCC>ミサイルが飛んで 世界が終わっても<br>미사이루가 톤데 세카이가 오왓테모<br>미사일이 날아서 세계가 끝나도?
+<SYNC Start=2756751><P Class=KRCC>最後の一瞬もハッピ―エンド<br>사이고노 잇모 핫피엔도<br>마지막의 순간도 해피엔딩
+<SYNC Start=2759885><P Class=KRCC>先がわからない時代だって<br>사키가와카라나이지다이닷테<br>앞을 모르는 시대라고?
+<SYNC Start=2762202><P Class=KRCC>しかめっ面して語ってるけど<br>시카멧츠라시테카탓테루케도<br>인상쓰고 말하지만?
+<SYNC Start=2764209><P Class=KRCC>未來が見えたら預言者<br>미라이가미에타라요켄샤<br>미래가 보인다면 예언자?
+<SYNC Start=2765941><P Class=KRCC>願いでもの言う僞善者<br>네가이데모노유우기켄샤<br>부탁이라도 말하면 위선자?
+<SYNC Start=2768000><P Class=KRCC>Don’t cry！ 夜なんて嫌い<br>Don't cry! 요루난테키라이<br>Don't cry! 밤 같은 건 싫어?
+<SYNC Start=2769707><P Class=KRCC>理屈 ただ苦痛 惱み暗闇<br>리쿠츠타다구츠 나야미쿠라야미<br>이론은 단지 고통 고민 어둠?
+<SYNC Start=2771904><P Class=KRCC>だから 何か燃やそう<br>다카라 나니카모야소오<br>그러니까 뭔가를 태우자?
+<SYNC Start=2773514><P Class=KRCC>パッと夢でも愛でも炎にしてさ<br>팟토 유메데모아이데모혼모니시테사<br>팟하고 꿈도 사랑도 불길로 하자?
+<SYNC Start=2775404><P Class=KRCC>何もいらない全部斷捨離<br>난니모이라나이젠부단샤리<br>아무것도 필요없어 전부 단샤리
+<SYNC Start=2777295><P Class=KRCC>踊れ！<br>오.도.레!<br>춤.추.자!?
+<SYNC Start=2778702><P Class=KRCC>踊れ！<br>오.도.레!<br>춤.추.자!?
+<SYNC Start=2780546><P Class=KRCC>踊れ！<br>오.도.레!<br>춤.추.자!?
+<SYNC Start=2782885><P Class=KRCC>踊れ！<br>오.도.레!<br>춤.추.자!?
+<SYNC Start=2784479><P Class=KRCC>テンション ション ション ション ション<br>텐숀 숀숀숀숀<br>텐션 션션션션
+<SYNC Start=2786304><P Class=KRCC>テンション マックス！<br>텐숀 막크스!<br>텐션 막스!
+<SYNC Start=2788146><P Class=KRCC>ヒ―トアップ アップ アップ アップ アップ<br>히토압 압압압압<br>히트업 업업업업?
+<SYNC Start=2790000><P Class=KRCC>ヒ―トアップして行こう！<br>히토압시테 유코오!<br>히트업해서 가자!?
+<SYNC Start=2791791><P Class=KRCC>間違い英語 關係ねえ<br>마치가이에이고 카안케에네에<br>통하지 않는 영어는 상관없어?
+<SYNC Start=2795400><P Class=KRCC>不安?緊張もアゲアゲで<br>후안킨죠오모아게아게데<br>불안 긴장도 기분 좋게
+<SYNC Start=2798994><P Class=KRCC>テンション ション ション ション ション<br>텐숀 숀숀숀숀<br>텐션 션션션션?
+<SYNC Start=2800914><P Class=KRCC>テンション マックス！<br>텐숀 막크스!<br>텐션 막스!?
+<SYNC Start=2803019><P Class=KRCC>グッドジョブ ジョブ ジョブ ジョブ ジョブ<br>굿? ????<br>굿잡 잡잡잡잡
+<SYNC Start=2804738><P Class=KRCC>グッドジョブで大丈夫<br>굿?데 다이죠부<br>굿잡에서 괜찮아?
+<SYNC Start=2806450><P Class=KRCC>身體が搖れて來るだろう<br>카라다가 유레테 쿠루다로오<br>몸이 흔들려 오는 거야?
+<SYNC Start=2810330><P Class=KRCC>ミサイルが飛んで 世界が終わっても<br>미사이루가 톤데 세카이가 오왓테모<br>미사일이 날아서 세계가 끝나도?
+<SYNC Start=2814033><P Class=KRCC>最後の一瞬もハッピ―エンド<br>사이고노 잇모 핫피엔도<br>마지막의 순간도 해피엔딩
+<SYNC Start=2817950><P Class=KRCC>&nbsp;
+<SYNC Start=2837850><P Class=KRCC>미우:앙코르(요청)감사합니다.<br>(AKB48 Team8 야마구치현 대표)
+<SYNC Start=2840408><P Class=KRCC>전원:감사합니다.
+<SYNC Start=2842526><P Class=KRCC>&nbsp;
+<SYNC Start=2849014><P Class=KRCC>시타오 미우:감사합니다.<br>(AKB48 Team8 야마구치현 대표)
+<SYNC Start=2850380><P Class=KRCC>&nbsp;
+<SYNC Start=2852308><P Class=KRCC>미우:콘서트에나 있는 앵콜인데요.<br>(AKB48 Team8 야마구치현 대표)
+<SYNC Start=2855470><P Class=KRCC>미우:이벤트에서 하는 건 처음이네요.<br>(AKB48 Team8 야마구치현 대표)
+<SYNC Start=2858907><P Class=KRCC>시타오 미우:정말 여러분들이 앵콜을 외처주서서 나왔습니다.<br>(AKB48 Team8 야마구치현 대표)
+<SYNC Start=2864700><P Class=KRCC>&nbsp;
+<SYNC Start=2871140><P Class=KRCC>요시다 카렌:토요타 주최 AKB48 팀8의 전국 투어 47의 멋진 거리란<br>(AKB48 Team8 후쿠오카현 대표)
+<SYNC Start=2879923><P Class=KRCC>요시다 카렌:전국 투어를 하고 있는데<br>(AKB48 Team8 후쿠오카현 대표)
+<SYNC Start=2884230><P Class=KRCC>요시다 카렌:다음 10월은 미에 현<br>(AKB48 Team8 후쿠오카현 대표)
+<SYNC Start=2886750><P Class=KRCC>요시다 카렌:내년 1월에는제가 사는 (야마구치) 옆의 후쿠오카현에서<br>(AKB48 Team8 후쿠오카현 대표)
+<SYNC Start=2892604><P Class=KRCC>요시다 카렌:그리고 3월에는 야마쿠치현에서 개최합니다.<br>(AKB48 Team8 후쿠오카현 대표)
+<SYNC Start=2897600><P Class=KRCC>&nbsp;
+<SYNC Start=2901520><P Class=KRCC>나카노 이쿠미:네.자세한건 akb 팀8의 홈페이지를 참고 해주세요<br>(AKB48 Team8 돗토리현 대표)
+<SYNC Start=2907000><P Class=KRCC>&nbsp;
+<SYNC Start=2908195><P Class=KRCC>전원:잘 부탁드립니다.
+<SYNC Start=2910160><P Class=KRCC>&nbsp;
+<SYNC Start=2911600><P Class=KRCC>미우:그리고 다음이 진짜 진짜로 마지막 곡이예요.<br>(AKB48 Team8 야마구치현 대표)
+<SYNC Start=2917380><P Class=KRCC>&nbsp;
+<SYNC Start=2921585><P Class=KRCC>미우:여러분 수건은 가지고 오셨나요?<br>(AKB48 Team8 야마구치현 대표)
+<SYNC Start=2923750><P Class=KRCC>&nbsp;
+<SYNC Start=2924595><P Class=KRCC>미우:타올? 가지고 계신분 들어봐주세요.<br>(AKB48 Team8 야마구치현 대표)
+<SYNC Start=2930330><P Class=KRCC>&nbsp;
+<SYNC Start=2934029><P Class=KRCC>미우:타올을 가지고 호응해 주세요. 없는분은 손을 들어 호응을..<br>(AKB48 Team8 야마구치현 대표)
+<SYNC Start=2943780><P Class=KRCC>&nbsp;
+<SYNC Start=2948585><P Class=KRCC>미우:그럼 들어주세요.ひこうき 雲<br>히코오키 쿠모(비행기 구름)<br>(AKB48 Team8 야마구치현 대표)
+<SYNC Start=2952185><P Class=KRCC>&nbsp;
+<SYNC Start=2956411><P Class=KRCC>미우:여러분 타올을 흔들어 호응해주세요.<br>(AKB48 Team8 야마구치현 대표)
+<SYNC Start=2960480><P Class=KRCC>ひこうき 雲<br>히코오키 쿠모<br>비행기 구름
+<SYNC Start=2974300><P Class=KRCC>&nbsp;
+<SYNC Start=2974500><P Class=KRCC>秋から冬への途中　僕たちは<br>아키카라후유에노토츄우 보꾸타치와<br>가을에서 겨울로 가는 도중 우리는
+<SYNC Start=2980940><P Class=KRCC>近道したつもりで<br>치카미치시따츠모리데<br>지름길로 돌아 가려다가
+<SYNC Start=2984450><P Class=KRCC>未來への曲がり角と　優しさと<br>미라이에노마가리카도또 야사시사또<br>미래로 가는 골목길과 다정함과
+<SYNC Start=2990329><P Class=KRCC>風を忘れていたよ<br>카제오와스레떼이따요<br>바람을 잊고 있었어
+<SYNC Start=2994294><P Class=KRCC>さよならつぶやく　君の表情は<br>사요나라츠부야쿠 키미노효-죠-와<br>안녕이라고 중얼거리는 너의 표정은
+<SYNC Start=3000140><P Class=KRCC>&nbsp;
+<SYNC Start=3001220><P Class=KRCC>陽射しが屆かず<br>히자시가토도카즈<br>햇살이 닿지 않아서
+<SYNC Start=3004129><P Class=KRCC>愛はもう枯れてしまった<br>아이와모-카레떼시마앗따<br>사랑은 시들어 버렸지
+<SYNC Start=3008200><P Class=KRCC>空にひこうき雲<br>소라니히코-키구모<br>하늘에 비행기 구름
+<SYNC Start=3011385><P Class=KRCC>白く棚引く線よ<br>시로쿠타나비꾸센요<br>하얗게 깔리는 선이여
+<SYNC Start=3014825><P Class=KRCC>誰の思いが殘るの？<br>다레노오모이가노꼬루노<br>누구의 마음이 남는 건가요
+<SYNC Start=3018894><P Class=KRCC>振り向く余裕もないまま??<br>후리무쿠요유-모나이마마<br>뒤돌아 볼 여유도 없이
+<SYNC Start=3021885><P Class=KRCC>ときの　ひこうき雲<br>토키노히코-키구모<br>때로 비행기 구름
+<SYNC Start=3024654><P Class=KRCC>爪を立てたみたいに<br>츠메오타테따미따이니<br>손톱을 세운 듯이
+<SYNC Start=3028000><P Class=KRCC>細く生○しい 傷跡<br>호소쿠나마나마시이 키즈아또<br>가늘고 생생한 상처
+<SYNC Start=3031778><P Class=KRCC>僕はぼんやりと眺めていた<br>보꾸와보응야리또나가메떼이따<br>나는 멍하니 바라보고 있었어
+<SYNC Start=3037350><P Class=KRCC>&nbsp;
+<SYNC Start=3047823><P Class=KRCC>空にひこうき雲<br>소라니히코-키구모<br>하늘에 비행기 구름
+<SYNC Start=3051100><P Class=KRCC>白く棚引く線よ<br>시로꾸타나비꾸센요<br>하얗게 깔리는 선이여
+<SYNC Start=3054585><P Class=KRCC>誰の思いが殘るの？<br>다레노오모이가노꼬루노<br>누구의 마음이 남는 건가요
+<SYNC Start=3058294><P Class=KRCC>振り向く余裕もないまま???<br>후리무쿠요유-모나이마마<br>뒤돌아 볼 여유도 없이
+<SYNC Start=3061320><P Class=KRCC>愛はひこうき雲<br>아이와히코-키구모<br>사랑은 비행기 구름
+<SYNC Start=3063880><P Class=KRCC>後を追いかけるみたいに<br>아또오오이카케루미따이니<br>뒤를 쫓듯이
+<SYNC Start=3067394><P Class=KRCC>少し遲れて聞こえた<br>스꼬시오쿠레떼키코에따<br>조금 뒤늦게 들려온
+<SYNC Start=3071329><P Class=KRCC>空を飛ぶ音と泣いた聲<br>소라오토부오또또나이따코에<br>하늘을 나는 소리와 울음 섞인 목소리
+<SYNC Start=3074864><P Class=KRCC>ひこうき雲<br>히코-키구모<br>비행기 구름
+<SYNC Start=3077174><P Class=KRCC>淚を隱すように<br>나미다오카쿠스요-니<br>눈물을 감추듯이
+<SYNC Start=3080500><P Class=KRCC>ちょっと右手をかざして<br>j또미기테오카자시떼<br>오른손을 살짝 올려서
+<SYNC Start=3084594><P Class=KRCC>君は悲しみを見送っていた<br>키미와카나시미오미오쿠떼이따<br>너는 슬픔을 보내고 있었지
+<SYNC Start=3091500><P Class=KRCC>&nbsp;
+<SYNC Start=3117938><P Class=KRCC>미우:감사합니다.<br>(AKB48 Team8 야마구치현 대표)
+<SYNC Start=3119726><P Class=KRCC>&nbsp;
+<SYNC Start=3125197><P Class=KRCC>미우:ひこうき 雲 들어 주셔서 여러분 감사합니다.<br>히코오키 쿠모(비행기 구름)<br>(AKB48 Team8 야마구치현 대표)
+<SYNC Start=3132400><P Class=KRCC>&nbsp;
+<SYNC Start=3136174><P Class=KRCC>나카노 이쿠미:이번 야마구치 이벤트 시타오짱 어땠어요?<br>(AKB48 Team8 돗토리현 대표)
+<SYNC Start=3141220><P Class=KRCC>미우:에.. 생각나지 않을정도로 텐션이 높으서서 즐거웠어요.<br>(AKB48 Team8 야마구치현 대표)
+<SYNC Start=3144750><P Class=KRCC>&nbsp;
+<SYNC Start=3145485><P Class=KRCC>미우:여러분도 많이 야마쿠치현에 오셔서<br>(AKB48 Team8 야마구치현 대표)
+<SYNC Start=3149760><P Class=KRCC>미우:토도부현 사시는분 여러분이 오셔서 감사하고 기쁘고 즐거 웠어요.<br>(AKB48 Team8 야마구치현 대표)
+<SYNC Start=3156000><P Class=KRCC>&nbsp;
+<SYNC Start=3159330><P Class=KRCC>미우:이 스테이지가 끝나도 유메하나하쿠는 계속 되기 때문에<br>(AKB48 Team8 야마구치현 대표)
+<SYNC Start=3162729><P Class=KRCC>미우:많은 여러 부스 있으니 보시고, 좋은 추억 만들고 가세요.<br>(AKB48 Team8 야마구치현 대표)
+<SYNC Start=3168000><P Class=KRCC>&nbsp;
+<SYNC Start=3171795><P Class=KRCC>그럼 정말 마지막으로..마지막으로 인사 할까요?
+<SYNC Start=3175800><P Class=KRCC>&nbsp;
+<SYNC Start=3192498><P Class=KRCC>감사했습니다.
+<SYNC Start=3195850><P Class=KRCC>&nbsp;
+</BODY>
+</SAMI>
