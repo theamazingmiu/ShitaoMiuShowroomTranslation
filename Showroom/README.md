@@ -204,6 +204,7 @@
   - 2018-09-16 ![][tran] ![][sub]
   - 2018-10-09 ![][sub]
   - 2018-10-13 ![][tran]
+  - 2018-10-27 ![][extern] https://youtu.be/Pfuf9BmEA4k
   - 2018-10-29 ![][sub]
 
 
@@ -211,4 +212,4 @@
 [sub]: https://img.shields.io/badge/-%EC%9E%90%EB%A7%89-blue.svg
 [wip]: https://img.shields.io/badge/-%EC%9E%91%EC%97%85%EC%A4%91-yellow.svg
 [wip-extern]: https://img.shields.io/badge/-%EC%99%B8%EB%B6%80%EC%9E%91%EC%97%85%EC%A4%91-yellow.svg
-
+[extern]: https://img.shields.io/badge/-%EC%99%B8%EB%B6%80%EC%9E%90%EB%A7%89-green.svg
