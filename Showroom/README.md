@@ -204,6 +204,7 @@
   - 2018-09-16 ![][tran] ![][sub]
   - 2018-10-09 ![][sub]
   - 2018-10-13 ![][tran]
+  - 2018-10-29 ![][sub]
 
 
 [tran]: https://img.shields.io/badge/-%EB%B2%88%EC%97%AD-green.svg
